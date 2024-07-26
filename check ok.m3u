@@ -787,11 +787,15 @@ http://103.120.172.74:4700
 http://103.120.172.74:4800
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="SPORTS CHANNELS",Star Sports 2 FHD
 http://starshare.live:8080/live/John123/John123/239.ts
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="SPORTS CHANNELS",Star sports 3
+http://103.131.214.129:9985/stream/channelid/1291575818.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Star Sports Select 1 HD
 http://103.120.172.74:1030
+#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Star Sports 1.0
+http://14.102.123.50:9080/play/a0nb
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg" group-title="SPORTS CHANNELS",Super Football
 http://145.239.5.177:8080/566/index.m3u8
-#EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="SPORTS CHANNELS",T SPORTS
+#EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="SPORTS CHANNELS",TSPORTS
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=jDzLA7bre5D3zOPrYZ1G3g&expires=1721094617&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",TBN UK
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021&live=1&avod=1
