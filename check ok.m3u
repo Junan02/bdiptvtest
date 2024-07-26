@@ -61,6 +61,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720905473/ei/o
 https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=qJ1A2T7xaBgcZESp-nv8AQ&expires=1721094346&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vVPgYDX/IMG-20240126-103034.png" group-title="BANGLADESHI CHANNELS",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png" group-title="BANGLADESHI CHANNELS",Dipto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" group-title="BANGLADESHI CHANNELS",DURONTO TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=9Ld-cWESLFTHyJxNIyczlg&expires=1721094359&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" group-title="BANGLADESHI CHANNELS",Ekattor TV
