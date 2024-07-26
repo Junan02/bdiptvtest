@@ -235,6 +235,8 @@ https://amg01448-samsungin-abpnews-samsungin-ad-ie.amagi.tv/playlist/amg01448-sa
 https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Akash Aath
 http://cdn.bdix.xyz:8080/live/66558773/66558773/31.ts
+#EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",&TV HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/9.ts
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/430113ef-93d6-4c9c-964c-bcbde277c3d6_180x180_ARYDigitalAsiaHD.jpg" group-title="INDIAN CHANNELS",Ary Digital HD
 http://195.26.87.217/live.ts?channelId=382&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Bhojpuri_Cinema.png/revision/latest?cb=20240319172045" group-title="INDIAN CHANNELS",BHOJPURI CINEMA
@@ -246,7 +248,13 @@ https://calcutta-news.mssarena71.workers.dev/stream/calcuttanews/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bs1Q0bx/Picsart-24-02-29-19-06-41-393.png" group-title="INDIAN CHANNELS",CLASSIC BOLLYWOOD HD
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVVRkAArO6GFn6dSd4eSm17wsY4vCloe4qQ&usqp=CAU" group-title="INDIAN CHANNELS",Colors
+http://cdn.bdix.xyz:8080/live/66558773/66558773/1824.ts
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVVRkAArO6GFn6dSd4eSm17wsY4vCloe4qQ&usqp=CAU" group-title="INDIAN CHANNELS",Colors
 http://103.120.172.74:1070
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVVRkAArO6GFn6dSd4eSm17wsY4vCloe4qQ&usqp=CAU" group-title="INDIAN CHANNELS",Colors HD UK
+http://cdn.bdix.xyz:8080/live/66558773/66558773/3639.ts
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVVRkAArO6GFn6dSd4eSm17wsY4vCloe4qQ&usqp=CAU" group-title="INDIAN CHANNELS",Colors UK(BD)
+http://195.26.87.217/live.ts?channelId=161&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" group-title="INDIAN CHANNELS",COLORS BANGLA HD
 http://cdn.bdix.xyz:8080/live/66558773/66558773/9347.ts
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" group-title="INDIAN CHANNELS",COLORS BANGLA HD
@@ -259,8 +267,6 @@ http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 http://195.26.87.217/live.ts?channelId=470&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/Kvd04ppM/640px-Colors-Cineplex-Superhits-logo.jpg" group-title="INDIAN CHANNELS",Colors Cineplex Superhit
 http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVVRkAArO6GFn6dSd4eSm17wsY4vCloe4qQ&usqp=CAU" group-title="INDIAN CHANNELS",Colors UK(BD)
-http://195.26.87.217/live.ts?channelId=161&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5a9ed8f5-4ce1-4eef-af5c-d1fdee1105e8_180x180_Dangal.jpg" group-title="INDIAN CHANNELS",DANGAL
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5a9ed8f5-4ce1-4eef-af5c-d1fdee1105e8_180x180_Dangal.jpg" group-title="INDIAN CHANNELS",Dangal [SamsungTVPlus]
@@ -322,13 +328,19 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/
 #EXTINF:-1  tvg-logo="https://i.ibb.co/CKWBHZJ/67d902f2-c127-464a-94c4-2226a1feb655.png" group-title="INDIAN CHANNELS",SHEMAROO BOLLYWOOD
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSolgyjxzgRJmZpSnvua-V-BUbynLQL7AW3IQgrOiAB-g&s" group-title="INDIAN CHANNELS",SRISTI TV
-http://sristi1.livebox.co.in/sristihls/live.m3u8
+http://sristi1.livebox.co.in/sristihls/live.m3u8http://cdn.bdix.xyz:8080/live/66558773/66558773/115.ts
+#EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Star Bharat HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/115.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYx6uyjKvCMsXVrL28D74_Omj8cRfbb0DZ2XSF6mwEk2xAbLyA28yvDu8&s=10" group-title="INDIAN CHANNELS",Star Gold
 http://103.120.172.74:5000
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyEnOgtWwBJE-_YGGf0MRtpfshuW9HfnjG2UlpFw8_EN_QizDHRrvaoT_&s=10" group-title="INDIAN CHANNELS",Star India
 http://103.120.172.74:1060
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyEnOgtWwBJE-_YGGf0MRtpfshuW9HfnjG2UlpFw8_EN_QizDHRrvaoT_&s=10" group-title="INDIAN CHANNELS",Star India
 http://103.120.172.74:5200
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqozs-4mKu7BOcscymi5kKXXT_hZ6DIugS-h_9l7PcNQ&s" group-title="INDIAN CHANNELS",STAR JALSHA SD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/123.ts
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqozs-4mKu7BOcscymi5kKXXT_hZ6DIugS-h_9l7PcNQ&s" group-title="INDIAN CHANNELS",STAR JALSHA HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/2838.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqozs-4mKu7BOcscymi5kKXXT_hZ6DIugS-h_9l7PcNQ&s" group-title="INDIAN CHANNELS",STAR JALSHA HD
 http://cdn.bdix.xyz:8080/live/66558773/66558773/494.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqozs-4mKu7BOcscymi5kKXXT_hZ6DIugS-h_9l7PcNQ&s" group-title="INDIAN CHANNELS",STAR JALSHA HD
@@ -347,6 +359,8 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/dTXsoAPnQ3rEkf7Mw8CTbH3wvnnhCzdahQU_HLgYNbH_dV5Sn_ql-gK_Sv1gpIqcMZmxEmkFmQ=s900-c-k-c0x00ffffff-no-rj" group-title="INDIAN CHANNELS",StarPlus
 http://103.120.172.74:4300
+#EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",STAR Utsav
+http://cdn.bdix.xyz:8080/live/66558773/66558773/37.ts
 #EXTINF:-1  tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/tv9-bharatvarsh.gif" group-title="INDIAN CHANNELS",TV9 INDIA
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mtpwqxG/IMG-20240126-084807.jpg" group-title="INDIAN CHANNELS",ZEE 24 GHANTA
@@ -355,6 +369,8 @@ https://zee28-ghanta.mssarena71.workers.dev/stream/Zee24Ghanta/master.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg" group-title="INDIAN CHANNELS",Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Zee Anmol
+http://cdn.bdix.xyz:8080/live/66558773/66558773/17.ts
 #EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",ZEE BANGLA
 https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=JDKN6CS2SwRfUBDAyz5Tbw&expires=1721094655&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Zee Bangla (30min Left)
@@ -382,6 +398,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_un
 #EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="INFOTAINMENT CHANNELS",Animal Planet HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/18.ts
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="INFOTAINMENT CHANNELS",Animal Planet HD
 https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="INFOTAINMENT CHANNELS",Animal Planet HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
@@ -398,13 +416,25 @@ http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" group-title="INFOTAINMENT CHANNELS",Discovery
+http://cdn.bdix.xyz:8080/live/66558773/66558773/2835.ts
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" group-title="INFOTAINMENT CHANNELS",Discovery
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" group-title="INFOTAINMENT CHANNELS",Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" group-title="INFOTAINMENT CHANNELS",Discovery HD Bangla
+http://cdn.bdix.xyz:8080/live/66558773/66558773/3566.ts
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" group-title="INFOTAINMENT CHANNELS",Discovery HD English
+http://cdn.bdix.xyz:8080/live/66558773/66558773/21.ts
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" group-title="INFOTAINMENT CHANNELS",Discovery HD Hindi
+http://cdn.bdix.xyz:8080/live/66558773/66558773/470.ts
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" group-title="INFOTAINMENT CHANNELS",Discovery HD Multi Audio
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7Xqcg3M/IMG-20240129-071722.png" group-title="INFOTAINMENT CHANNELS",Discovery HD CA
 http://cord-cutter.net:8080/21093432/85321533/57252
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7Xqcg3M/IMG-20240129-071722.png" group-title="INFOTAINMENT CHANNELS",Discovery Relaxation
+http://cdn.bdix.xyz:8080/live/66558773/66558773/9359.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7Xqcg3M/IMG-20240129-071722.png" group-title="INFOTAINMENT CHANNELS",Discovery Science
+http://cdn.bdix.xyz:8080/live/66558773/66558773/23.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7Xqcg3M/IMG-20240129-071722.png" group-title="INFOTAINMENT CHANNELS",Discovery Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7Xqcg3M/IMG-20240129-071722.png" group-title="INFOTAINMENT CHANNELS",Discovery Science
@@ -412,15 +442,25 @@ https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7Xqcg3M/IMG-20240129-071722.png" group-title="INFOTAINMENT CHANNELS",Discovery Science CA
 http://cord-cutter.net:8080/21093432/85321533/57418
 #EXTINF:-1  tvg-logo="https://i.ibb.co/3yp7V9G/IMG-20240129-071756.png" group-title="INFOTAINMENT CHANNELS",Discovery Turbo
+http://cdn.bdix.xyz:8080/live/66558773/66558773/184.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/3yp7V9G/IMG-20240129-071756.png" group-title="INFOTAINMENT CHANNELS",Discovery Turbo
 https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/3yp7V9G/IMG-20240129-071756.png" group-title="INFOTAINMENT CHANNELS",Discovery Turbo
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
+#EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",DMAX
+http://cdn.bdix.xyz:8080/live/66558773/66558773/181.ts
 #EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",DOCUMENTARY
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+#EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",Fashion News
+http://cdn.bdix.xyz:8080/live/66558773/66558773/268.ts
 #EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",food
 https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",Food Food
+http://cdn.bdix.xyz:8080/live/66558773/66558773/185.ts
+#EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ctD0Lss/IMG-20240129-071829.png" group-title="INFOTAINMENT CHANNELS",Food Network
+http://cdn.bdix.xyz:8080/live/66558773/66558773/183.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/ctD0Lss/IMG-20240129-071829.png" group-title="INFOTAINMENT CHANNELS",Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",Fox News US
@@ -431,6 +471,14 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://hncfree-samsungau.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QFFs9zc/IMG-20240126-100324.jpg" group-title="INFOTAINMENT CHANNELS",HGTV
 https://dplus.gammacdn.workers.dev/videos/111.m3u8
+#EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",History
+http://cdn.bdix.xyz:8080/live/66558773/66558773/341.ts
+#EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",In Wild
+http://cdn.bdix.xyz:8080/live/66558773/66558773/277.ts
+#EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",Investigation Discovery
+http://cdn.bdix.xyz:8080/live/66558773/66558773/24.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/3hQBDBj/IMG-20240129-071855.jpg" group-title="INFOTAINMENT CHANNELS",Love Nature 4K
+http://cdn.bdix.xyz:8080/live/66558773/66558773/2840.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/3hQBDBj/IMG-20240129-071855.jpg" group-title="INFOTAINMENT CHANNELS",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hW5V8j0/IMG-20240126-101107.jpg" group-title="INFOTAINMENT CHANNELS",Nasa TV
@@ -439,8 +487,16 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/hW5V8j0/IMG-20240126-101107.jpg" group-title="INFOTAINMENT CHANNELS",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/PcBBG8W/IMG-20240129-071139.png" group-title="INFOTAINMENT CHANNELS",NAT GEO Bangla
+http://cdn.bdix.xyz:8080/live/66558773/66558773/2065.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/PcBBG8W/IMG-20240129-071139.png" group-title="INFOTAINMENT CHANNELS",NAT GEO Kids
+http://cdn.bdix.xyz:8080/live/66558773/66558773/9363.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co/PcBBG8W/IMG-20240129-071139.png" group-title="INFOTAINMENT CHANNELS",NAT GEO Wild HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/2833.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PcBBG8W/IMG-20240129-071139.png" group-title="INFOTAINMENT CHANNELS",NAT GEO Wild
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/PcBBG8W/IMG-20240129-071139.png" group-title="INFOTAINMENT CHANNELS",NAT GEO Wild En
+http://cdn.bdix.xyz:8080/live/66558773/66558773/2834.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PcBBG8W/IMG-20240129-071139.png" group-title="INFOTAINMENT CHANNELS",NAT GEO Wild UK
 http://cord-cutter.net:8080/21093432/85321533/53693
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PcBBG8W/IMG-20240129-071139.png" group-title="INFOTAINMENT CHANNELS",Nat Geo Wild Ru
@@ -453,16 +509,22 @@ http://195.26.87.217/live.ts?channelId=4236&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720905784/ei/2JuSZsn8E8bpjuMP5IC14A4/ip/103.122.91.110/id/Dds1R3OwoeE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181296/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAT-HsqxTxIUDjYyxzY6Bn4z5wzyfQ4tNCwXs64dmWVid-AHeE72dDvarzZA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN_W-xGsIvKFCNy-KAopUsujR1aQ8eHshwjyXn18ItsuAiEA-hkegqChlVk0RBT5Z52zDg-aZbs39aalKAmiM2fN2BY%3D/file/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PcBBG8W/IMG-20240129-071139.png" group-title="INFOTAINMENT CHANNELS",National Geographic Wild
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720905804/ei/7JuSZuSiJ9eDz7sPweef2AM/ip/103.122.91.110/id/PLR6KdmyTho.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181296/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/bd/spc/NO7bAfZc3Sd9RQY4gBSbv7G-tuGXo0BMqyR9gh3AYthndGWMrQK1kL2xDjP1QmE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgc2IQ1xnSV0YbFeqgWN8Aj3xTWF4zze3WgZcU2A4xTqcCICX3ktB1fkk651_nyYX9z1bpwB9ZYlie2WPGIn3LqydA/file/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",Star Life HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/140.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9cdd9kN/IMG-20240126-100608.png" group-title="INFOTAINMENT CHANNELS",Tastemade Australia
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9cdd9kN/IMG-20240126-100608.png" group-title="INFOTAINMENT CHANNELS",Tastemade Australia
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9cdd9kN/IMG-20240126-100608.png" group-title="INFOTAINMENT CHANNELS",Tastemade Australia
 https://tastemade-aus-tmina-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TLC-HD-Logo_2019.svg/512px-TLC-HD-Logo_2019.svg.png?20200523103532" group-title="INFOTAINMENT CHANNELS",TLC HD Hindi
+http://cdn.bdix.xyz:8080/live/66558773/66558773/20.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TLC-HD-Logo_2019.svg/512px-TLC-HD-Logo_2019.svg.png?20200523103532" group-title="INFOTAINMENT CHANNELS",TLC HD
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TLC-HD-Logo_2019.svg/512px-TLC-HD-Logo_2019.svg.png?20200523103532" group-title="INFOTAINMENT CHANNELS",TLC HD
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",Travel Channel
+http://cdn.bdix.xyz:8080/live/66558773/66558773/182.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMtMLeBVE7c53EhV6mE2qLnYOXyz_jz9Xiw&usqp=CAU" group-title="INFOTAINMENT CHANNELS",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",Wild Earth
@@ -487,34 +549,48 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Baby TV UK
 http://allinonereborn.tech/allinone.php?id=42298
+#EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Boomerang
+http://cdn.bdix.xyz:8080/live/66558773/66558773/246.ts
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Boomerang USA
 http://allinonereborn.tech/allinone.php?id=49439
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" group-title="KIDS CHANNELS",Cartoon Network Hindi
 https://allinonereborn.tech/opplex.php?id=153154
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="KIDS CHANNELS",Cartoon Network Hindi
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
+#EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="KIDS CHANNELS",Cartoon Network
+http://cdn.bdix.xyz:8080/live/66558773/66558773/34.ts
+#EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="KIDS CHANNELS",Cartoon Network UK
+http://cdn.bdix.xyz:8080/live/66558773/66558773/102.ts
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="KIDS CHANNELS",Cartoon Network USA
 http://cord-cutter.net:8080/21093432/85321533/2206
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="KIDS CHANNELS",Cartoon Network USA
 http://allinonereborn.tech/allinone.php?id=48839
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" group-title="KIDS CHANNELS",Discovery Kids
+http://cdn.bdix.xyz:8080/live/66558773/66558773/22.ts
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" group-title="KIDS CHANNELS",Discovery Kids Hindi
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" group-title="KIDS CHANNELS",Discovery Kids India
 http://allinonereborn.tech/allinone.php?id=38098
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" group-title="KIDS CHANNELS",Discovery Kids2
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Disney HD Hindi
+http://cdn.bdix.xyz:8080/live/66558773/66558773/89.ts
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Disney Channel UK
 http://allinonereborn.tech/allinone.php?id=52794
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Disney East USA
 http://allinonereborn.tech/allinone.php?id=52914
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",DISNEY HINDI HD
 https://allinonereborn.tech/doordarshan.m3u8?id=634
+#EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Disney Jr
+http://cdn.bdix.xyz:8080/live/66558773/66558773/324.ts
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Disney Jr UK
 http://allinonereborn.tech/allinone.php?id=52949
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Disney Junior
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720905645/ei/TZuSZu2fC87sg8UP_bqWkAU/ip/103.122.91.107/id/UmdMTatmQTQ.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181296/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAdnNMbnWqk4aUYCEyBEVIfEHyNoojDkfFC1LgfFXgLb7G8Wag1YJSYQgp-o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAO4iz1ejBQC1oY_3HgVzia6SpDT_HTcTGZNMuCFCaNshAiEAiMs8gUcmMADYo8RH8Ec60foaaRFd1j8ifF40zz4DSFQ%3D/file/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Disney West USA
 http://allinonereborn.tech/allinone.php?id=52919
+#EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Disney XD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/5034.ts
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Disney XD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720905667/ei/Y5uSZu6JB-uJ4-EPhaCI4AI/ip/103.122.91.107/id/Fjp2TdlTTIU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181296/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/bd/spc/NO7bAcUNlCkjVpL3StAdZ3aRi8Cak1cbNgxqE8UyWfZBvP6yaFR6tCXPb9d4h-A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSkpyOlpZQQGy45yrFbfn2hRy24hlex9tRFWw-ork-YUCIQCV9Wp9VR7UPHCxXxlvsesh_NZfO8qkrPikUgPsFE2EMQ%3D%3D/file/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Disney XD UK
@@ -523,6 +599,8 @@ http://allinonereborn.tech/allinone.php?id=35393
 http://cord-cutter.net:8080/21093432/85321533/75621
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Disney XD USA
 http://allinonereborn.tech/allinone.php?id=49304
+#EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Duranto
+http://cdn.bdix.xyz:8080/live/66558773/66558773/228.ts
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Etv
 http://cdn.bdix.xyz:8080/live/66558773/66558773/9165.ts
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Freeform
@@ -541,12 +619,18 @@ https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?chunks=c33979067be55ba29145ae28f4d57c
 http://cord-cutter.net:8080/21093432/85321533/46710
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Nick Jr USA
 http://allinonereborn.tech/allinone.php?id=47084
+#EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Nickelodeon
+http://cdn.bdix.xyz:8080/live/66558773/66558773/149.ts
+#EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Nickelodeon
+http://cdn.bdix.xyz:8080/live/66558773/66558773/457.ts
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Nickelodeon East
 http://cord-cutter.net:8080/21093432/85321533/38
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Nickelodeon UK
 http://allinonereborn.tech/allinone.php?id=10866
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Nickelodeon USA
 http://allinonereborn.tech/allinone.php?id=14008
+#EXTINF:-1  tvg-logo="https://juicetv.app/channellogo/nickelodeon.png" group-title="KIDS CHANNELS",NickToons
+http://cdn.bdix.xyz:8080/live/66558773/66558773/3964.ts
 #EXTINF:-1  tvg-logo="https://juicetv.app/channellogo/nickelodeon.png" group-title="KIDS CHANNELS",NickToons USA
 http://cord-cutter.net:8080/21093432/85321533/36
 #EXTINF:-1  tvg-logo="https://juicetv.app/channellogo/nickelodeon.png" group-title="KIDS CHANNELS",NickToons USA
@@ -560,9 +644,13 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",PBS Kids
 http://allinonereborn.tech/allinone.php?id=49369
 #EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="KIDS CHANNELS",POGO
+http://cdn.bdix.xyz:8080/live/66558773/66558773/33.ts
+#EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="KIDS CHANNELS",POGO
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Shinchan
 http://port.denver1769.in/tptv.php?id=58625
+#EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="KIDS CHANNELS",Sony Yay! India
+http://cdn.bdix.xyz:8080/live/66558773/66558773/224.ts
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="KIDS CHANNELS",Sony Yay! India
 http://allinonereborn.tech/allinone.php?id=34198
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="KIDS CHANNELS",Sony Yay! India
@@ -584,9 +672,13 @@ http://allinonereborn.tech/allinone.php?id=49104
 #EXTINF:-1  tvg-logo="https://i.ibb.co/G0y20Vk/IMG-20240129-070853.png" group-title="KIDS CHANNELS",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES Channel",&Pictures HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/4.ts
+#EXTINF:-1  tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="MOVIES Channel",&Pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1-audio_208482_und=208000-video=4237600.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",B4U Movies
+http://cdn.bdix.xyz:8080/live/66558773/66558773/36.ts
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",B4U Movies IN(BD)
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",BFLIX MOVIES
@@ -597,20 +689,32 @@ https://amg01448-samsungin-enterr10bhojpuri-samsungin-ad-fv.amagi.tv/playlist/am
 http://195.26.87.217/live.ts?channelId=396&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Bollywood Classic
+http://cdn.bdix.xyz:8080/live/66558773/66558773/173.ts
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Bollywood Classic(BD)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Bollywood HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/174.ts
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Bollywood HD (BD)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Bollywood Hungama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",BOLLYWOOD PRIME
+http://cdn.bdix.xyz:8080/live/66558773/66558773/172.ts
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Colors Bangla Cinema
 http://cdn.bdix.xyz:8080/live/66558773/66558773/144.ts
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Colors Cineplex BOLLYWOOD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/154.ts
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",GOLDMINES
+http://cdn.bdix.xyz:8080/live/66558773/66558773/12.ts
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.e3Yo-uR5jC6ZgD8NXNDEfwHaEw?rs=1&pid=ImgDetMain" group-title="MOVIES Channel",HBO
 http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Kadak
+http://cdn.bdix.xyz:8080/live/66558773/66558773/108.ts
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Maha Movies
 http://longstream-04.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",MOVIE BANGLA
@@ -629,6 +733,16 @@ https://rakuten-topfree-7-eu.rakuten.wurl.tv/3000.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/48?cb=20190815211939" group-title="MOVIES Channel",Sony Movies
 http://cord-cutter.net:8080/21093432/85321533/2214
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Star Gold HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/42.ts
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Star Gold 2
+http://cdn.bdix.xyz:8080/live/66558773/66558773/65.ts
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Star Gold Romance
+http://cdn.bdix.xyz:8080/live/66558773/66558773/2117.ts
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Star Gold Select HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/92.ts
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Star Gold Thrills
+http://cdn.bdix.xyz:8080/live/66558773/66558773/93.ts
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Star Jalsha Movies HD
 http://cdn.bdix.xyz:8080/live/66558773/66558773/3628.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLepDoywQ37t1QxojYcoP62XM6Hf8faxqTPQ&usqp=CAU" group-title="MOVIES Channel",Tata Sky Bollywood
@@ -716,9 +830,15 @@ http://103.72.179.30:1935/GECHindi/SONY.stream_720p/chunklist_w1134787721.m3u8
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Sony Liv",Sony Entertainment HD
 http://allinonereborn.tech/allinone.php?id=54736
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Sony Liv",Sony Entertainment HD UK
+http://cdn.bdix.xyz:8080/live/66558773/66558773/3943.ts
+#EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Sony Liv",Sony Entertainment HD UK
 http://allinonereborn.tech/allinone.php?id=55286
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" group-title="Sony Liv",Sony Entertainment USA
+http://cdn.bdix.xyz:8080/live/66558773/66558773/226.ts
+#EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" group-title="Sony Liv",Sony Entertainment USA
 http://allinonereborn.tech/allinone.php?id=54661
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest?cb=20240615084342" group-title="Sony Liv",Sony KAL
+http://cdn.bdix.xyz:8080/live/66558773/66558773/180.ts
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest?cb=20240615084342" group-title="Sony Liv",Sony KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="Sony Liv",Sony Marathi
@@ -748,11 +868,15 @@ http://allinonereborn.tech/allinone.php?id=56783
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png" group-title="Sony Liv",SONY SAB
 http://195.26.87.217/live.ts?channelId=191&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony Liv",SONY SAB HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/138.ts
+#EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony Liv",SONY SAB HD
 http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony Liv",Sony Sab HD
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6571/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Sony_six_logo_460.jpg" group-title="Sony Liv",Sony Six HD
 http://allinonereborn.tech/allinone.php?id=52704
+#EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Sony Liv",Sony Wah
+http://cdn.bdix.xyz:8080/live/66558773/66558773/1807.ts
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Sony Liv",Sony Wah
 http://allinonereborn.tech/allinone.php?id=46629
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Sony Liv",SONY WAH
@@ -769,14 +893,20 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1LnSAoEu8icBLeJEGVXP1h9iQVgW2VI8dWbx8Lj4L0bzoF-99pjkm2yfy4fq74Dzejw&usqp=CAU" group-title="SPORTS CHANNELS",Arena Sport 6 HD
 http://80.252.37.194:5000/udp/233.233.233.8:12000
+#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Astro Cricket
+http://cdn.bdix.xyz:8080/live/66558773/66558773/49.ts
 #EXTINF:-1  tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg" group-title="SPORTS CHANNELS",Asports
 http://homeip.biz/PK_PS/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="data:image/png;base64,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" group-title="SPORTS CHANNELS",Astro Arena
 http://iptvtree.net:8080/F14995/a84c0963/157485
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHnOOh6gBEJtrhKmTV7KvMNI1x5D8O5SD5tg&s" group-title="SPORTS CHANNELS",Atnnat
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1814215713.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/fdHwGNN/IMG-20240126-101852.png" group-title="SPORTS CHANNELS",beIN Sports 1 EN
+http://cdn.bdix.xyz:8080/live/66558773/66558773/3694.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/fdHwGNN/IMG-20240126-101852.png" group-title="SPORTS CHANNELS",beIN Sports 1 FR
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1  tvg-logo="h" group-title="SPORTS CHANNELS",beIN Sports 2
+http://cdn.bdix.xyz:8080/live/66558773/66558773/1666.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="SPORTS CHANNELS",Canal Plus Sport 2
 http://145.239.5.177:8080/538/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg" group-title="SPORTS CHANNELS",DUBAI 2
@@ -787,6 +917,8 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/inde
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/162
 #EXTINF:-1  tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo.png" group-title="SPORTS CHANNELS",EuroSports
 http://starshare.live:8080/live/John123/John123/216.ts
+#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Fox Cricket HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/70.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Geo Super
 http://195.26.87.217/live.ts?channelId=274&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s2CDNpR/IMG-20240320-115949.png" group-title="SPORTS CHANNELS",MU Tv
@@ -869,6 +1001,10 @@ https://dai.google.com/ssai/event/oZNVxALASVyYS4HMtTpRCw/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/1920x1080_5385600/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Sports News
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",SSC 1
+http://cdn.bdix.xyz:8080/live/66558773/66558773/188.ts
+#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",SSC 2
+http://cdn.bdix.xyz:8080/live/66558773/66558773/261.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxD3KbpYDVpxp5IOLtGsffr2xo6AVwCkBTqw&usqp=CAU" group-title="SPORTS CHANNELS",Star Sports 1
 http://1903.full57.us:8000/play/lNqm9A2xCBDvUVSGfZUG5XQYJlRFhhSBryLorg4vxEHxM34bN6ERUNRp7aWA0DdHbcj9eXGsFAeq7GzpkawKcRKioZhI0ct3ilJVq7cnL-
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAuliIifLYXySFw1QHwA1DLN-ZlE9jdDinJvGyL1V5kQxRTuPk7dxSGfd&s=10" group-title="SPORTS CHANNELS",Star sports 1
@@ -908,6 +1044,8 @@ https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=jDzLA7bre5D3zO
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",TBN UK
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021&live=1&avod=1
 #EXTINF:-1  tvg-logo="https://iconape.com/wp-content/png_logo_vector/ten-sports-logo.png" group-title="SPORTS CHANNELS",Ten Sports HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/145.ts
+#EXTINF:-1  tvg-logo="https://iconape.com/wp-content/png_logo_vector/ten-sports-logo.png" group-title="SPORTS CHANNELS",Ten Sports HD
 http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Tennis
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -917,6 +1055,10 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 https://is.gd/hasankappa_arg_vs_can_semifina.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",TruePremier 5HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
+#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",TSN 1 OL
+http://cdn.bdix.xyz:8080/live/66558773/66558773/983.ts
+#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",TSN 2
+http://cdn.bdix.xyz:8080/live/66558773/66558773/993.ts
 #EXTINF:-1  tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD
 http://103.26.10.20:8080/auth/Hp0K-bEIEWYmqzeSkRayxbz0Vf3bztA1rjBPHbH8Mu0c_ASf0vUJjSSddKqp4US65PLnjKeAFL_1wyuV126wDjKQ5tHK9O9QFCV5EOtBvY7j2Z-EaDvwrtetvdg19lpZzparsz10cbn9tkrY_DHA2eydQosij8QRC7ihTc8cko6T1FmjWJ0Rja4IZHb6cIhLYA6moGTnAoFALbnriOi2K1F10Z4E6fFEMLgIJejNN1XgwksDUy1LNsTK5fVDPkBi7sFmSTMLioDgnG1A2OOGL2LFWcvi0V2vXzYfTTPNdWv_7HXAYmr2TgJfwYMcbLiKSObWJsSmEdBOZ3AcmtSEPmQ_uuVv7XZe5tvm2cMU_8qMsHNo7iQ8yfRf0zJTIibmb6HK0fHtK0TQhruGt7ESVXwDnXI7FdFd49HziB9qHKC4-ks-jRZu2xswrqA5J07oo5b5snz2I62DDQJd46B2b6jbN4GKBu1rpC7lA1PBD18tdYfKGsCb-GNA__WwhXVIV-VbtcAg4DuH431Ne2QaaT6LkLIg41xmwmU20Ct8oJhXJZJVYpNFwD9OWSIBly6tWnHXLIuFGdlCSjabzdNRPpQfZ7H_L6ry17YS4KArdSSPDVKVnTDI-dYbRord8_FtRIhAW-74e3zv_bmWck4Mvw
 #EXTINF:-1  tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD
@@ -929,6 +1071,8 @@ http://113.212.111.246:8080/hls/col12.m3u8
 https://fo01.short.gy/Mirajlivbdixupdatelinkm3u8livesportsaksahfree-mirajliv.m3u8
 #EXTINF:-1  tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1721348851&md5=2dCEZE9ktOGRqXG7QyenMw&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",WILLOW Cricket
+http://cdn.bdix.xyz:8080/live/66558773/66558773/87.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",WILLOW EXTRA
 http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",World Poker Tour [SamsungTVPlus]
