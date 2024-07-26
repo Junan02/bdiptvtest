@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/220px-Ekhon_Logo.png" group-title="BANGLADESHI CHANNELS",Akhon TV
+http://cdn.bdix.xyz:8080/live/66558773/66558773/325.ts
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" group-title="BANGLADESHI CHANNELS",ANANDA TV
 http://cdn.bdix.xyz:8080/live/66558773/66558773/44.ts
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" group-title="BANGLADESHI CHANNELS",ANANDA TV
@@ -13,6 +15,8 @@ https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=pk6rcq41Ef_lxF
 http://cdn.bdix.xyz:8080/live/66558773/66558773/167.ts
 #EXTINF:-1  tvg-logo="https://test-tan-iota-90.vercel.app/images/atn_bangla.jpg" group-title="BANGLADESHI CHANNELS",ATN BANGLA
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=WJs5AUOcKyo0GVyMsaUeug&expires=1721093855&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1  tvg-logo="" group-title="BANGLADESHI CHANNELS",Atn News Bangla
+http://cdn.bdix.xyz:8080/live/66558773/66558773/380.ts
 #EXTINF:-1  tvg-logo="" group-title="BANGLADESHI CHANNELS",Atn News Bangla
 http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1  tvg-logo="https://i.ibb.co/JsTvvbD/IMG-20240126-085423.png" group-title="BANGLADESHI CHANNELS",ATN UK
@@ -52,7 +56,7 @@ http://cdn.bdix.xyz:8080/live/66558773/66558773/75.ts
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="BANGLADESHI CHANNELS",BTV WORLD
 https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=5Kk8l_QBOfwNu3x6ktTKlA&expires=1721094054&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title="BANGLADESHI CHANNELS",Channel 24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721327948/ei/7AyZZurgC66IkucP56ih8A4/ip/20.55.213.184/id/uW3mkX8eu1g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAcXVAGRf7Q6WJBlMMmWe5QSTB_Vkg2vFGj9r2o1_Al8Xa5Vejz8wmxxU39E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL1Kb9yRyu6UBesDOc_tyCcXiQLxAFHbbGufwUbaEGY5AiBuXV28egZJyPvMkF4-qHE40i243NQNp8Ssjf0sOYK3SQ%3D%3D/file/index.m3u8
+http://cdn.bdix.xyz:8080/live/66558773/66558773/83.ts
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title="BANGLADESHI CHANNELS",Channel 24
 https://www.youtube.com/@channel24digital/live
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title="BANGLADESHI CHANNELS",CHANNEL 24
@@ -74,7 +78,7 @@ https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=MQzIKU3stEIBP
 #EXTINF:-1  tvg-logo="https://i.ibb.co/X8qHYNm/IMG-20240320-114627.png" group-title="BANGLADESHI CHANNELS",Cumilla TV
 http://103.149.142.133/0.m3u8
 #EXTINF:-1  tvg-logo="" group-title="BANGLADESHI CHANNELS",DBC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721327949/ei/7QyZZuH6J7mzkucP3MKA-AQ/ip/20.55.213.184/id/pJ4uSsvPpsE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/maudio/1/spc/NO7bAZxa-9z_GnZIoZwZyz79cC6n1v6jBwtwveYmeAD2147NgGpW9QAMzV33i20/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgY1WMTjYFS6WaZPcg_WwQ7l__2HPS-fjPntWj2S42eDoCIQCrsPnd0az9uwdYONhlONPX7iZi93baia-ZZrupK4iLRw%3D%3D/file/index.m3u8
+http://cdn.bdix.xyz:8080/live/66558773/66558773/171.ts
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" group-title="BANGLADESHI CHANNELS",DBC NEWS
 https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=6h-ury_XMfvZxiqG73xuqw&expires=1721094243&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/pzwWtLg/IMG-20240320-114517.jpg" group-title="BANGLADESHI CHANNELS",Desh TV
@@ -94,7 +98,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" group-title="BANGLADESHI CHANNELS",DURONTO TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=9Ld-cWESLFTHyJxNIyczlg&expires=1721094359&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" group-title="BANGLADESHI CHANNELS",Ekattor TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720905535/ei/35qSZrDxJ5y5juMP3NSNiAM/ip/103.122.91.109/id/2UoiK0CYNWo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181296/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAQ6oISRA3-jVHoG4K-s21d7aGK8e52oC6_YWNyO4tMzisaAXQ8Itm27p91k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgGgqn91nWw-qGacPDN4GXVRdVscS2_r10CoYkBxNv9aICIQDtSACr4tFZSfVDYAN9pt0hFY_T70vQG9x2ctl5G2wkdA%3D%3D/file/index.m3u8
+http://cdn.bdix.xyz:8080/live/66558773/66558773/318.ts
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" group-title="BANGLADESHI CHANNELS",EKATTOR TV
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=Q0cDFJDlC5iCAwUVVrXllw&expires=1721094376&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="" group-title="BANGLADESHI CHANNELS",Ekhon TV
@@ -124,11 +128,13 @@ http://cdn.bdix.xyz:8080/live/66558773/66558773/76.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Green_TV_Logo.png/250px-Green_TV_Logo.png" group-title="BANGLADESHI CHANNELS",Green TV
 http://cdn.bdix.xyz:8080/live/66558773/66558773/81.ts
 #EXTINF:-1  tvg-logo="" group-title="BANGLADESHI CHANNELS",Independent TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721327945/ei/6QyZZrXrN9mEkucPsPytyA8/ip/20.55.213.184/id/kuu3e_9cxe4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAf8u8P5Own2uj-S6SWHm_Ep6lvlJW04DR_uu5Ogyd0kT2ZMxJTa_kgEgFiQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgcjaow-MUuGy3CO4MilBZLRvVVDMIuPDcAIzNq7mEquUCIQCe_6e1zuLhdXIDv_cN7GN2zSK_AgQDi-bekZ1BXimyow%3D%3D/file/index.m3u8
+http://cdn.bdix.xyz:8080/live/66558773/66558773/119.ts
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title="BANGLADESHI CHANNELS",INDEPENDENT TV
 https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=De-BX4w_YVg_9ZNPFYPkKw&expires=1721094427&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1  tvg-logo="https://media.licdn.com/dms/image/C4E0BAQHbgfGDdFp5sg/company-logo_200_200/0/1630634142169?e=2147483647&v=beta&t=V2TOGqLlstfMHP-BVJMHf-sUpzK1Mi5VmizdDgKWqcs" group-title="BANGLADESHI CHANNELS",Jagoroni RV
+http://cdn.bdix.xyz:8080/live/66558773/66558773/1727.ts
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="BANGLADESHI CHANNELS",Jamuna TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721327944/ei/6AyZZsPgNoO0kucPia6YqA8/ip/20.55.213.184/id/q_BwMRxhuJs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAZeFS7D2XEkAKPBNJnP_JwuZwpfG79hAjpJgrY51EmS9vfy4gwP8g9ptDK0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMlz0clyeoOc-FR3Qi3HsXTbbo7b_O_s_rNU7TnUP9h7AiAdkLr9QM399qBqdrlcGN-9cFZSehuoU3iPAD_7tEcMMw%3D%3D/file/index.m3u8
+http://cdn.bdix.xyz:8080/live/66558773/66558773/84.ts
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="BANGLADESHI CHANNELS",JAMUNA TV
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=hqNTRMzEA2yLAYajCY_6ow&expires=1721094439&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/M8psvPP/IMG-20240126-084956.jpg" group-title="BANGLADESHI CHANNELS",Maasranga Tv
@@ -168,7 +174,7 @@ http://cdn.bdix.xyz:8080/live/66558773/66558773/39.ts
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title="BANGLADESHI CHANNELS",SATV
 https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=V1K_VsQwHQWj1-l1s5I-9g&expires=1721094592&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="" group-title="BANGLADESHI CHANNELS",Somoy TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721327943/ei/5wyZZvO_JaWAkucPkI2E0AU/ip/20.55.213.184/id/4XKYheMHclY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAdgyYjqN9wz9lLEuD-_4z40gv6Kcq2VgvLyNRxIEnIVNLYjOU8nn3vKseMg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgCfm9L3-5zGX0gnEaFXE-N9z39aE4tFeCQjQ5Vt8LrbcCICKw_WoeNpQS6CpOEhQra9FSfgTTD0A0EpiTV0SAZ8E2/file/index.m3u8
+http://cdn.bdix.xyz:8080/live/66558773/66558773/30.ts
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title="BANGLADESHI CHANNELS",SOMOY TV
 https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=WX_k1k0_n_m8HqfFbkbyuw&expires=1721094605&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="https://i.ibb.co/5x280KL/IMG-20240126-110917.jpg" group-title="BANGLADESHI CHANNELS",TV9 Bangla
@@ -227,6 +233,8 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 https://amg01448-samsungin-abpnews-samsungin-ad-ie.amagi.tv/playlist/amg01448-samsungin-abpnews-samsungin/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",ABP Sanjha
 https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Akash Aath
+http://cdn.bdix.xyz:8080/live/66558773/66558773/31.ts
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/430113ef-93d6-4c9c-964c-bcbde277c3d6_180x180_ARYDigitalAsiaHD.jpg" group-title="INDIAN CHANNELS",Ary Digital HD
 http://195.26.87.217/live.ts?channelId=382&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Bhojpuri_Cinema.png/revision/latest?cb=20240319172045" group-title="INDIAN CHANNELS",BHOJPURI CINEMA
@@ -239,6 +247,8 @@ https://calcutta-news.mssarena71.workers.dev/stream/calcuttanews/master.m3u8
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVVRkAArO6GFn6dSd4eSm17wsY4vCloe4qQ&usqp=CAU" group-title="INDIAN CHANNELS",Colors
 http://103.120.172.74:1070
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" group-title="INDIAN CHANNELS",COLORS BANGLA HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/9347.ts
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" group-title="INDIAN CHANNELS",COLORS BANGLA HD
 https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" group-title="INDIAN CHANNELS",COLORS BANGLA HD
@@ -320,6 +330,10 @@ http://103.120.172.74:1060
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyEnOgtWwBJE-_YGGf0MRtpfshuW9HfnjG2UlpFw8_EN_QizDHRrvaoT_&s=10" group-title="INDIAN CHANNELS",Star India
 http://103.120.172.74:5200
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqozs-4mKu7BOcscymi5kKXXT_hZ6DIugS-h_9l7PcNQ&s" group-title="INDIAN CHANNELS",STAR JALSHA HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/494.ts
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqozs-4mKu7BOcscymi5kKXXT_hZ6DIugS-h_9l7PcNQ&s" group-title="INDIAN CHANNELS",STAR JALSHA HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/9161.ts
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqozs-4mKu7BOcscymi5kKXXT_hZ6DIugS-h_9l7PcNQ&s" group-title="INDIAN CHANNELS",STAR JALSHA HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqozs-4mKu7BOcscymi5kKXXT_hZ6DIugS-h_9l7PcNQ&s" group-title="INDIAN CHANNELS",STAR JALSHA HD
 http://195.26.87.217/live.ts?channelId=116&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -345,6 +359,10 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=JDKN6CS2SwRfUBDAyz5Tbw&expires=1721094655&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Zee Bangla (30min Left)
 https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Zee Bangla HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/11.ts
+#EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Zee Bangla HD Global
+http://cdn.bdix.xyz:8080/live/66558773/66558773/3705.ts
 #EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Zee Bangla HD
@@ -505,6 +523,8 @@ http://allinonereborn.tech/allinone.php?id=35393
 http://cord-cutter.net:8080/21093432/85321533/75621
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Disney XD USA
 http://allinonereborn.tech/allinone.php?id=49304
+#EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Etv
+http://cdn.bdix.xyz:8080/live/66558773/66558773/9165.ts
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Freeform
 http://allinonereborn.tech/allinone.php?id=49299
 #EXTINF:-1  tvg-logo="" group-title="KIDS CHANNELS",Hungama
@@ -585,6 +605,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Colors Bangla Cinema
+http://cdn.bdix.xyz:8080/live/66558773/66558773/144.ts
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.e3Yo-uR5jC6ZgD8NXNDEfwHaEw?rs=1&pid=ImgDetMain" group-title="MOVIES Channel",HBO
 http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Hollywood HD
@@ -607,10 +629,14 @@ https://rakuten-topfree-7-eu.rakuten.wurl.tv/3000.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/48?cb=20190815211939" group-title="MOVIES Channel",Sony Movies
 http://cord-cutter.net:8080/21093432/85321533/2214
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Star Jalsha Movies HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/3628.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLepDoywQ37t1QxojYcoP62XM6Hf8faxqTPQ&usqp=CAU" group-title="MOVIES Channel",Tata Sky Bollywood
 http://allinonereborn.tech/allinone.php?id=49609
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Young Hollywood
 https://younghollywood-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="MOVIES Channel",Zee Action
+http://cdn.bdix.xyz:8080/live/66558773/66558773/2.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="MOVIES Channel",Zee Action
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Zee Bangla Cinema
@@ -619,12 +645,20 @@ http://176.119.29.52/live.ts?channelId=119&uid=5060&deviceMac=00:1A:79:73:9C:A1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=2137600-430237722.ts
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg/revision/latest?cb=20191214174432" group-title="MOVIES Channel",Zee Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+#EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" group-title="MOVIES Channel",ZEE Bangla CINEMA
+http://cdn.bdix.xyz:8080/live/66558773/66558773/7.ts
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",ZEE Bollywood
+http://cdn.bdix.xyz:8080/live/66558773/66558773/3.ts
+#EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" group-title="MOVIES Channel",ZEE CINEMA HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/1.ts
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" group-title="MOVIES Channel",ZEE CINEMA HD
 https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=yRmUzCARcEUlQsvd8RPjcg&expires=1721094671&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTV7JttP0I-adyJXqoE-DWaoSPcO3O5xV0SRw4c-DQw&s" group-title="MOVIES Channel",ZEE CINEMA HD
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" group-title="MOVIES Channel",ZEE CINEMA HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",ZEE Classic
+http://cdn.bdix.xyz:8080/live/66558773/66558773/190.ts
 #EXTINF:-1  tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73019-l8gzpnjs-v1/imageContent-73019-l8gzpnjs-m1.png" group-title="MUSIC CHANNELS",7X MUSIC
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Dwy8VQN/IMG-20240126-095458.png" group-title="MUSIC CHANNELS",9X JHAKAAS
@@ -669,7 +703,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 http://allinonereborn.tech/allinone.php?id=54706
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony Liv",SAB HD-UK
 http://allinonereborn.tech/allinone.php?id=34448
-#EXTINF:-1  tvg-logo="" group-title="Sony Liv",Sony Aath
+#EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Sony Liv",SONY Aath
+http://cdn.bdix.xyz:8080/live/66558773/66558773/2138.ts
+#EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Sony Liv",SONY Aath
 https://rkbdmoza.xyz/wp-web/chunklist.m3u8?load=b9d34e92f7f06d618791206c8f4a6232c2bd9ef71ce5a574a4955f0c2e6fb0ab39ee054334159d19690e16679039ec321db82a64b1fd3cf1ea997ee3b24f0e5937da5b18136378ad0e1522b8d3e41ed86528131919805262808fcd4e3156355809ccbbff4f092cb1fe7ffbc49c70c7a8c35b11206e043fdb3d1b6d137b096be69df28734e0feacfd05e96aef952c53da5a47f579035e0e884c000d44c19e8b4bac79c3b7bd1e7c85a361105a5872416f6a12b0488cbe9da77600ccb8e36016611faa7929ac7116e5f94ced76b27f3facae8e4072b291ef9a0927b73829f884600abb7ac460c7f68c8773496e7a77ccb3e13037814220619eb6b728a1af363747a161dc8bcac291ea0b396aa893eaef51d50ed64d608cb70473bca5cbda304d76857ac35cd3f813abb3f4b6b86c293000ed622a9b437167f76e73ba56f597d1ff77d5c442cafe42571586b645822b334868a478b93c8e049849791740f6422bad&token=
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Sony Liv",SONY AATH
 http://195.26.87.217/live.ts?channelId=44150&uid=7435&deviceMac=00:1A:79:51:4B:3A
