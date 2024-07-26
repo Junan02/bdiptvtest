@@ -709,6 +709,8 @@ http://195.26.87.217/live.ts?channelId=274&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.rcg2Ridk8dSdD-LOemKKyAHaEK?rs=1&pid=ImgDetMain" group-title="SPORTS CHANNELS",MUTV (freeiptv25)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="SPORTS CHANNELS",olympics Channel
+https://ott-dai-oc.akamaized.net/OC1/master.m3u8?hdnts=exp=1721986937~acl=/*~hmac=01ddad7725846f23d5a994408fdedcb677c7cf2b85a705a339645701e04ae7d3
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszrNYjTBLmY4Go4C6C3WSm0wwc1wmd89nKH7RmhGkhA&s" group-title="SPORTS CHANNELS",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Origin Sports
