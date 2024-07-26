@@ -677,6 +677,8 @@ http://cdn.bdix.xyz:8080/live/66558773/66558773/4.ts
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1-audio_208482_und=208000-video=4237600.m3u8
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",AXN HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/54.ts
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",B4U Movies
 http://cdn.bdix.xyz:8080/live/66558773/66558773/36.ts
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",B4U Movies IN(BD)
@@ -710,6 +712,8 @@ http://cdn.bdix.xyz:8080/live/66558773/66558773/154.ts
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",GOLDMINES
 http://cdn.bdix.xyz:8080/live/66558773/66558773/12.ts
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.e3Yo-uR5jC6ZgD8NXNDEfwHaEw?rs=1&pid=ImgDetMain" group-title="MOVIES Channel",HBO
+http://cdn.bdix.xyz:8080/live/66558773/66558773/56.ts
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.e3Yo-uR5jC6ZgD8NXNDEfwHaEw?rs=1&pid=ImgDetMain" group-title="MOVIES Channel",HBO
 http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
@@ -730,6 +734,8 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:C2:86&stream=1118070&exte
 #EXTINF:-1  tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="MOVIES Channel",Rakuten TV
 https://rakuten-topfree-7-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/48?cb=20190815211939" group-title="MOVIES Channel",Sony Movies
+http://cdn.bdix.xyz:8080/live/66558773/66558773/5629.ts
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/48?cb=20190815211939" group-title="MOVIES Channel",Sony Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/48?cb=20190815211939" group-title="MOVIES Channel",Sony Movies
 http://cord-cutter.net:8080/21093432/85321533/2214
@@ -745,6 +751,8 @@ http://cdn.bdix.xyz:8080/live/66558773/66558773/92.ts
 http://cdn.bdix.xyz:8080/live/66558773/66558773/93.ts
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Star Jalsha Movies HD
 http://cdn.bdix.xyz:8080/live/66558773/66558773/3628.ts
+#EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Star Movies HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/236.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLepDoywQ37t1QxojYcoP62XM6Hf8faxqTPQ&usqp=CAU" group-title="MOVIES Channel",Tata Sky Bollywood
 http://allinonereborn.tech/allinone.php?id=49609
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Young Hollywood
@@ -1055,6 +1063,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 https://is.gd/hasankappa_arg_vs_can_semifina.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",TruePremier 5HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
+#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",TNT Sports 1
+http://cdn.bdix.xyz:8080/live/66558773/66558773/221.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",TSN 1 OL
 http://cdn.bdix.xyz:8080/live/66558773/66558773/983.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",TSN 2
