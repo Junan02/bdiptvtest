@@ -781,6 +781,8 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ad
 http://1903.full57.us:8000/play/lNqm9A2xCBDvUVSGfZUG5XQYJlRFhhSBryLorg4vxEHxM34bN6ERUNRp7aWA0DdHbcj9eXGsFAeq7GzpkawKcRKioZhI0ct3ilJVq7cnL-
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAuliIifLYXySFw1QHwA1DLN-ZlE9jdDinJvGyL1V5kQxRTuPk7dxSGfd&s=10" group-title="SPORTS CHANNELS",Star sports 1
 http://103.120.172.74:4100
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Star_Sports_2.png/640px-Star_Sports_2.png" group-title="SPORTS CHANNELS",Star Sports 1HD
+http://103.151.60.2:5050/hoichoi24.com-help-you/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/04/12/star-sports.jpg" group-title="SPORTS CHANNELS",Star Sports 1 Hindi VIP
 http://176.119.29.52/live.ts?channelId=295&deviceMac=00:1A:79:0A:CA:4F
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Star_Sports_2.png/640px-Star_Sports_2.png" group-title="SPORTS CHANNELS",Star Sports 1HD
@@ -815,6 +817,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 https://is.gd/hasankappa_arg_vs_can_semifina.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",TruePremier 5HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
+#EXTINF:-1  tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD
+http://103.26.10.20:8080/auth/Hp0K-bEIEWYmqzeSkRayxbz0Vf3bztA1rjBPHbH8Mu0c_ASf0vUJjSSddKqp4US65PLnjKeAFL_1wyuV126wDjKQ5tHK9O9QFCV5EOtBvY7j2Z-EaDvwrtetvdg19lpZzparsz10cbn9tkrY_DHA2eydQosij8QRC7ihTc8cko6T1FmjWJ0Rja4IZHb6cIhLYA6moGTnAoFALbnriOi2K1F10Z4E6fFEMLgIJejNN1XgwksDUy1LNsTK5fVDPkBi7sFmSTMLioDgnG1A2OOGL2LFWcvi0V2vXzYfTTPNdWv_7HXAYmr2TgJfwYMcbLiKSObWJsSmEdBOZ3AcmtSEPmQ_uuVv7XZe5tvm2cMU_8qMsHNo7iQ8yfRf0zJTIibmb6HK0fHtK0TQhruGt7ESVXwDnXI7FdFd49HziB9qHKC4-ks-jRZu2xswrqA5J07oo5b5snz2I62DDQJd46B2b6jbN4GKBu1rpC7lA1PBD18tdYfKGsCb-GNA__WwhXVIV-VbtcAg4DuH431Ne2QaaT6LkLIg41xmwmU20Ct8oJhXJZJVYpNFwD9OWSIBly6tWnHXLIuFGdlCSjabzdNRPpQfZ7H_L6ry17YS4KArdSSPDVKVnTDI-dYbRord8_FtRIhAW-74e3zv_bmWck4Mvw
 #EXTINF:-1  tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD
 https://a2uy.short.gy/BAN-VS-IND/Zubayer-Op.m3u8
 #EXTINF:-1  tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD
