@@ -730,6 +730,8 @@ http://starshare.live:8080/live/John123/John123/155.ts
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten1
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten1 HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/66.ts
+#EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten1 HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/122
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten1 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
@@ -740,11 +742,15 @@ https://homeip.biz/SPTEN1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten2
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten2 HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/67.ts
+#EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten2 HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/123
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten2 HD
 http://allinonereborn.tech/allinone.php?id=47904
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten2 HD
 https://homeip.biz/IN_SNT2/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten3 HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/136.ts
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten3 HD
 http://176.119.29.52/live.ts?channelId=291&deviceMac=00:1A:79:0A:CA:4F
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten3 HD
@@ -753,6 +759,8 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/124
 http://allinonereborn.tech/allinone.php?id=47909
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten3 HD
 https://homeip.biz/tenso3/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten5 HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/133.ts
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten5
 http://103.120.172.74:5300
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten5 HD
@@ -783,12 +791,16 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ad
 http://1903.full57.us:8000/play/lNqm9A2xCBDvUVSGfZUG5XQYJlRFhhSBryLorg4vxEHxM34bN6ERUNRp7aWA0DdHbcj9eXGsFAeq7GzpkawKcRKioZhI0ct3ilJVq7cnL-
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAuliIifLYXySFw1QHwA1DLN-ZlE9jdDinJvGyL1V5kQxRTuPk7dxSGfd&s=10" group-title="SPORTS CHANNELS",Star sports 1
 http://103.120.172.74:4100
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Star_Sports_2.png/640px-Star_Sports_2.png" group-title="SPORTS CHANNELS",Star Sports 1HD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Star_Sports_2.png/640px-Star_Sports_2.png" group-title="SPORTS CHANNELS",Star Sports 1 HD
 http://103.151.60.2:5050/hoichoi24.com-help-you/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Star_Sports_2.png/640px-Star_Sports_2.png" group-title="SPORTS CHANNELS",Star Sports 1 HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/135.ts
 #EXTINF:-1  tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/04/12/star-sports.jpg" group-title="SPORTS CHANNELS",Star Sports 1 Hindi VIP
 http://176.119.29.52/live.ts?channelId=295&deviceMac=00:1A:79:0A:CA:4F
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Star_Sports_2.png/640px-Star_Sports_2.png" group-title="SPORTS CHANNELS",Star Sports 1HD
 http://103.120.172.74:4600
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uFTJguA2rSqLTUEzkXstc4BLdL-1-6baBKMzXJNsJg&s" group-title="SPORTS CHANNELS",Star sports 2 HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/53.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uFTJguA2rSqLTUEzkXstc4BLdL-1-6baBKMzXJNsJg&s" group-title="SPORTS CHANNELS",Star sports 2
 http://103.120.172.74:4200
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uFTJguA2rSqLTUEzkXstc4BLdL-1-6baBKMzXJNsJg&s" group-title="SPORTS CHANNELS",Star sports 2
@@ -800,7 +812,11 @@ http://starshare.live:8080/live/John123/John123/239.ts
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="SPORTS CHANNELS",Star sports 3
 http://103.131.214.129:9985/stream/channelid/1291575818.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Star Sports Select 1 HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/8918.ts
+#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Star Sports Select 1 HD
 http://103.120.172.74:1030
+#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Star Sports Select 2 HD
+http://cdn.bdix.xyz:8080/live/66558773/66558773/60.ts
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Star Sports 1.0
 http://14.102.123.50:9080/play/a0nb
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg" group-title="SPORTS CHANNELS",Super Football
