@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/220px-Ekhon_Logo.png" group-title="BANGLADESHI CHANNELS",Akhon TV
+https://anym3u8player.com/youtube.php/id/66a4647642fc5.m3u8
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" group-title="BANGLADESHI CHANNELS",ANANDA TV
 https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=1Zsi_sjYn4kJNVzrk_eSyA&expires=1721093927&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="BANGLADESHI CHANNELS",ASIAN TV
@@ -125,7 +127,9 @@ https://nayeemparvez.my.id/jadoo/master.php?id=gazi_tv_hd
 http://allinonereborn.in/allinone.php?id=55417
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title="BANGLADESHI CHANNELS",INDEPENDENT TV
 https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=De-BX4w_YVg_9ZNPFYPkKw&expires=1721094427&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1  tvg-logo="" group-title="BANGLADESHI CHANNELS",Jamuna
+#EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="BANGLADESHI CHANNELS",JAMUNA TV
+https://anym3u8player.com/youtube.php/id/66a46343bb8b6.m3u8
+#EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="BANGLADESHI CHANNELS",JAMUNA TV
 http://allinonereborn.in/allinone.php?id=45594
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" group-title="BANGLADESHI CHANNELS",JAMUNA TV
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=hqNTRMzEA2yLAYajCY_6ow&expires=1721094439&user=d477246e9e724f81a011b847457e71c4
@@ -166,7 +170,7 @@ http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1  tvg-logo="" group-title="BANGLADESHI CHANNELS",Probashi TV
 http://allinonereborn.in/allinone.php?id=56743
 #EXTINF:-1  tvg-logo="" group-title="BANGLADESHI CHANNELS",RTV HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721327945/ei/6QyZZu3MGryGkucP_6-SyAk/ip/20.55.213.184/id/ZfqwYDrF7Io.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAdjEuog2shjy4UM8Yk45fC2yFBmVuJOfJo9X3i8ZkGEJvDQ-pZEx2kTLBzc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKnR_koDnOMG4weMcBkavILoSAKkn-gtMH6CoBGb2UjxAiEA1NtXO7Uf_xTqqASQaUyLGXZRV2RqypGYYYqacK6bpUs%3D/file/index.m3u8
+https://anym3u8player.com/youtube.php/id/66a463ececd09.m3u8
 #EXTINF:-1  tvg-logo="" group-title="BANGLADESHI CHANNELS",SA TV
 http://allinonereborn.in/allinone.php?id=48744
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title="BANGLADESHI CHANNELS",SATV
@@ -1315,7 +1319,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 https://raycoms-originsports.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Premier League TV US
 http://allinonereborn.in/allinone.php?id=57288
-#EXTINF:-1  tvg-logo="https://e1.pxfuel.com/desktop-wallpaper/157/435/desktop-wallpaper-real-madrid-tv-online.jpg" group-title="SPORTS CHANNELS",RMA TV (freeiptv25)
+#EXTINF:-1  tvg-logo="https://e1.pxfuel.com/desktop-wallpaper/157/435/desktop-wallpaper-real-madrid-tv-online.jpg" group-title="SPORTS CHANNELS",RMA TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Sky news HD
 http://allinonereborn.in/allinone.php?id=57588
@@ -1425,6 +1429,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 https://is.gd/hasankappa_arg_vs_can_semifina.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",TruePremier 5HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
+#EXTINF:-1  tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="SPORTS CHANNELS",TSPORTS
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=jDzLA7bre5D3zOPrYZ1G3g&expires=1721094617&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",TSports HD
@@ -1435,8 +1441,6 @@ http://allinonereborn.in/allinone.php?id=57715
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD
 http://103.26.10.20:8080/auth/Hp0K-bEIEWYmqzeSkRayxbz0Vf3bztA1rjBPHbH8Mu0c_ASf0vUJjSSddKqp4US65PLnjKeAFL_1wyuV126wDjKQ5tHK9O9QFCV5EOtBvY7j2Z-EaDvwrtetvdg19lpZzparsz10cbn9tkrY_DHA2eydQosij8QRC7ihTc8cko6T1FmjWJ0Rja4IZHb6cIhLYA6moGTnAoFALbnriOi2K1F10Z4E6fFEMLgIJejNN1XgwksDUy1LNsTK5fVDPkBi7sFmSTMLioDgnG1A2OOGL2LFWcvi0V2vXzYfTTPNdWv_7HXAYmr2TgJfwYMcbLiKSObWJsSmEdBOZ3AcmtSEPmQ_uuVv7XZe5tvm2cMU_8qMsHNo7iQ8yfRf0zJTIibmb6HK0fHtK0TQhruGt7ESVXwDnXI7FdFd49HziB9qHKC4-ks-jRZu2xswrqA5J07oo5b5snz2I62DDQJd46B2b6jbN4GKBu1rpC7lA1PBD18tdYfKGsCb-GNA__WwhXVIV-VbtcAg4DuH431Ne2QaaT6LkLIg41xmwmU20Ct8oJhXJZJVYpNFwD9OWSIBly6tWnHXLIuFGdlCSjabzdNRPpQfZ7H_L6ry17YS4KArdSSPDVKVnTDI-dYbRord8_FtRIhAW-74e3zv_bmWck4Mvw
-#EXTINF:-1  tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD
-http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1  tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD
 https://a2uy.short.gy/BAN-VS-IND/Zubayer-Op.m3u8
 #EXTINF:-1  tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD
