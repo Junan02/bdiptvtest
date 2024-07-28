@@ -1311,9 +1311,9 @@ http://allinonereborn.in/allinone.php?id=49229
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.rcg2Ridk8dSdD-LOemKKyAHaEK?rs=1&pid=ImgDetMain" group-title="SPORTS CHANNELS",MUTV (freeiptv25)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="SPORTS CHANNELS",olympics Channel
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel
 https://ott-dai-oc.akamaized.net/OC1/master.m3u8?hdnts=exp=1721986937~acl=/*~hmac=01ddad7725846f23d5a994408fdedcb677c7cf2b85a705a339645701e04ae7d3
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="SPORTS CHANNELS",olympics Channel
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel
 https://ott-dai-oc.akamaized.net/OC1/OC1.m3u8?hdnAea=st=1722013053~exp=1722013353~acl=*~id=e98e12c6-98ff-4d95-b844-3bd8e86f617c~hmac=e00ae192a49025ca94334d3741a4fff1f0ad10fded584c17d367201256678117
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszrNYjTBLmY4Go4C6C3WSm0wwc1wmd89nKH7RmhGkhA&s" group-title="SPORTS CHANNELS",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
@@ -2117,3 +2117,71 @@ http://cdn.bdix.xyz:8080/live/66558773/66558773/3.ts
 http://cdn.bdix.xyz:8080/live/66558773/66558773/1.ts
 #EXTINF:-1  tvg-logo="" group-title="ZZ Not Working",ZEE Classic
 http://cdn.bdix.xyz:8080/live/66558773/66558773/190.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Artistic Gymnastics
+https://par-ocsi-live-f.ovpobs.tv/live/ch06/hls/hdntl=1722164622~/live/ch06/hls/*~080-dbed673d4c~6dd91e580b91adb8ce38ccbafc8029c6fe1d48d62fa2d41cd9a562d077fe5834/ch06-avc1_5154400=10005.m3u8?ateme_date_begin=1722151509
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Beach Volleyball
+https://par-ocsi-live-f.ovpobs.tv/live/ch38/hls/hdntl=1722164723~/live/ch38/hls/*~080-dbed673d4c~2e1615e4b01f1b55e63831821e600e1273735301e9141085c2abf81e6c51eeb3/ch38-avc1_5154400=10000.m3u8?ateme_date_begin=1722149408
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Basketball
+https://par-ocsi-live-f.ovpobs.tv/live/ch36/hls/hdntl=1722164771~/live/ch36/hls/*~080-dbed673d4c~070f30688671e96ad52b260cff3946195eb8dc604fa1ceca809205d2bf04a91f/ch36-avc1_5154400=10000.m3u8?ateme_date_begin=1722156608
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Boxing
+https://par-ocsi-live-f.ovpobs.tv/live/ch35/hls/hdntl=1722164834~/live/ch35/hls/*~080-dbed673d4c~3d8dda387931389b11f695b5cd1e572b3f0f8e7f9852eac5525de7d077e9f6b4/ch35-avc1_5154400=10000.m3u8?ateme_date_begin=1722156908
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Equestrian
+https://par-ocsi-live-f.ovpobs.tv/live/ch18/hls/hdntl=1722165502~/live/ch18/hls/*~080-c30ee6a3e5~95ef70f1f89057767a8383291fec0cffc68a76e436bf0804d575a6797250996e/ch18-avc1_5154400=10005.m3u8?ateme_date_begin=1722154809
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Fencing Yellow Piste
+https://par-ocsi-live-f.ovpobs.tv/live/ch02/hls/hdntl=1722164901~/live/ch02/hls/*~080-dbed673d4c~8d6a81e077df4916dd81fdf3c65ceda0fd6c2e23b584a6b47fc90770ea712ec9/ch02-avc1_5154400=10001.m3u8?ateme_date_begin=1722151508
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Fencing Green Piste
+https://par-ocsi-live-f.ovpobs.tv/live/ch04/hls/hdntl=1722165023~/live/ch04/hls/*~080-c30ee6a3e5~070a279adbe0c5d160a3161ee828186838f1a3dc4c09649fcd62b4322764afd2/ch04-avc1_5154400=10005.m3u8?ateme_date_begin=1722151507
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Fencing Red Piste
+https://par-ocsi-live-f.ovpobs.tv/live/ch03/hls/hdntl=1722165062~/live/ch03/hls/*~080-c30ee6a3e5~c5a0001d013d7d10a55154979b33ad87b3258f221339f2c80e0d7a1f1a0058e7/ch03-avc1_5154400=10005.m3u8?ateme_date_begin=1722151509
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Fencing Blue Piste
+https://par-ocsi-live-f.ovpobs.tv/live/ch20/hls/hdntl=1722165095~/live/ch20/hls/*~080-c30ee6a3e5~cfc74a9dced7970b767f946e9933fa5b5c430d28fd123164473f95b74f0aa65c/ch20-avc1_5154400=10005.m3u8?ateme_date_begin=1722151508
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Hockey 1
+https://par-ocsi-live-f.ovpobs.tv/live/ch41/hls/hdntl=1722165294~/live/ch41/hls/*~080-c30ee6a3e5~c2097c177e8354c838cba0d685b6dc3297fc1a57dbff27a06d39dce91031b538/ch41-avc1_5154400=10000.m3u8?ateme_date_begin=1722154809
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Hockey 2
+https://par-ocsi-live-f.ovpobs.tv/live/ch40/hls/hdntl=1722165296~/live/ch40/hls/*~080-c30ee6a3e5~b6424ea59bd551bc4fcba5adc3b30090d12e53b137ce15c679cca1522047325c/ch40-avc1_5154400=10000.m3u8?ateme_date_begin=1722153007
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Judo Mat 1
+https://par-ocsi-live-f.ovpobs.tv/live/ch33/hls/hdntl=1722165414~/live/ch33/hls/*~080-c30ee6a3e5~552549317c895b1c3da36febc488a64b675790040644afdbfe59eeca5f93a3b9/ch33-avc1_5154400=10000.m3u8?ateme_date_begin=1722153307
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Judo Mat 2
+https://par-ocsi-live-f.ovpobs.tv/fer/ch34/hls/hdntl=1722165417~/fer/ch34/hls/*~080-c30ee6a3e5~5368950d5a9b40aea26175d4a7f61cc5f728ea049f88e857b5add6d19460d09e/ch34-avc1_5154400=10000.m3u8?ateme_date_begin=1722153308&ateme_date_end=1722164704
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Rowing
+https://par-ocsi-live-f.ovpobs.tv/fer/ch16/hls/hdntl=1722166707~/fer/ch16/hls/*~080-c30ee6a3e5~5a6c117f2da4e601db5fd72df414463566734edabed2a7568ef0c410ed43af1a/ch16-avc1_5154400=10005.m3u8?ateme_date_begin=1722149707&ateme_date_end=1722165076
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Sailing
+https://par-ocsi-live-f.ovpobs.tv/live/ch17/hls/hdntl=1722165599~/live/ch17/hls/*~080-c30ee6a3e5~6aeb6fc46d076a295936fc75d2a98c102abc03b4d9ccb9ea9e9124e375abcedb/ch17-avc1_5154400=10005.m3u8?ateme_date_begin=1722160807
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Skateboarding
+https://par-ocsi-live-f.ovpobs.tv/live/ch14/hls/hdntl=1722165633~/live/ch14/hls/*~080-c30ee6a3e5~735ec8908d1e66af6dbda3912ffca383b5bf377391385579564466e869f93721/ch14-avc1_5154400=10005.m3u8?ateme_date_begin=1722160508
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Table Tennis | Table 1
+https://par-ocsi-live-f.ovpobs.tv/live/ch21/hls/hdntl=1722165777~/live/ch21/hls/*~080-c30ee6a3e5~0df69b9bae9b8a675e01a7b5c3248f9540579673bf6b6bfa9568d6dc302eb49e/ch21-avc1_5154400=10005.m3u8?ateme_date_begin=1722153308
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Table Tennis | Table 2
+https://par-ocsi-live-f.ovpobs.tv/live/ch22/hls/hdntl=1722165781~/live/ch22/hls/*~080-c30ee6a3e5~c372c21cca5a97ef6300b613173151c849081e3158561a9e61fe4b00a36fe182/ch22-avc1_5154400=10005.m3u8?ateme_date_begin=1722153307
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Table Tennis | Table 3
+https://par-ocsi-live-f.ovpobs.tv/live/ch23/hls/hdntl=1722165787~/live/ch23/hls/*~080-dbed673d4c~99441ad38746867840a5478a1e2351aefe123fcea3a39ab04b653f794dd604cd/ch23-avc1_5154400=10005.m3u8?ateme_date_begin=1722153308
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Table Tennis | Table 4
+https://par-ocsi-live-f.ovpobs.tv/live/ch24/hls/hdntl=1722165787~/live/ch24/hls/*~080-dbed673d4c~49be902c28b73fc685955cee31da656cbf41c2a0ac683fdd7d1e2919ef0e50a0/ch24-avc1_5154400=10005.m3u8?ateme_date_begin=1722153307
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Tennis Court S-Lenglen: Singles & Doubles
+https://par-ocsi-live-f.ovpobs.tv/live/ch26/hls/hdntl=1722166181~/live/ch26/hls/*~080-c30ee6a3e5~5508b0fe2d852d11552c333ed36ffbdc018949c4dd266af87dbda69733f7a189/ch26-avc1_5154400=10005.m3u8?ateme_date_begin=1722160506
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Tennis Court S-Mathieu: Singles & Doubles
+https://par-ocsi-live-f.ovpobs.tv/live/ch27/hls/index.m3u8?begin=1722160507&tt=BYMXCtQ/0eFS6jzWvvQtOlgf4epL6e6l1KmEsbMFcQI=&hdnts=exp=1722166250~acl=/live/ch27/hls/*~id=080-c30ee6a3e5~hmac=a30e631db59a86f82b1cb78a97897992560e3b6eb6316ce9fc6f56b6706d8a8b
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Tennis Court P-Chatrier: Singles
+https://par-ocsi-live-f.ovpobs.tv/live/ch25/hls/hdntl=1722166284~/live/ch25/hls/*~080-c30ee6a3e5~c3eba8332d093cf498e00ab1f2d8ff1ac7a06d60988d52d018bcdcfa778f1344/ch25-avc1_5154400=10005.m3u8?ateme_date_begin=1722160508
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Tennis Court 06
+https://par-ocsi-live-f.ovpobs.tv/live/ch73/hls/hdntl=1722166369~/live/ch73/hls/*~080-c30ee6a3e5~2017d7dfe75da4bb659a531cb86f3d3123d7ae22492da5b47b7430dfdb5ecc96/ch73-avc1_5154400=10005.m3u8?ateme_date_begin=1722160509
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Tennis Court 07
+https://par-ocsi-live-f.ovpobs.tv/live/ch29/hls/hdntl=1722166369~/live/ch29/hls/*~080-c30ee6a3e5~e3b70fda27c5247407317f09b003e5c9d95fd1fe994a100c9f7dda89fe7e8528/ch29-avc1_5154400=10005.m3u8?ateme_date_begin=1722160508
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Tennis Court 08
+https://par-ocsi-live-f.ovpobs.tv/live/ch79/hls/hdntl=1722166376~/live/ch79/hls/*~080-c30ee6a3e5~70b4883728b58465607cd433cef4c47389ac6161cd38f223cac43631daaeee05/ch79-avc1_5154400=10005.m3u8?ateme_date_begin=1722160508
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Tennis Court 09
+https://par-ocsi-live-f.ovpobs.tv/live/ch76/hls/hdntl=1722166383~/live/ch76/hls/*~080-c30ee6a3e5~11d8889693c8382b428562e22840526eac63963dda089d5b77601aef357b75df/ch76-avc1_5154400=10005.m3u8?ateme_date_begin=1722160509
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Tennis Court 10
+https://par-ocsi-live-f.ovpobs.tv/live/ch77/hls/hdntl=1722166391~/live/ch77/hls/*~080-c30ee6a3e5~c75a87ae2443b0b33d3d60db691e74dc0f9bae60b23cb1167a987381c331c361/ch77-avc1_5154400=10005.m3u8?ateme_date_begin=1722160509
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Tennis Court 11
+https://par-ocsi-live-f.ovpobs.tv/live/ch78/hls/hdntl=1722166391~/live/ch78/hls/*~080-c30ee6a3e5~98574d0b8711210624469e543f1ed6bc153372ecc97e453b25566ff983360d98/ch78-avc1_5154400=10005.m3u8?ateme_date_begin=1722160509
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Tennis Court 12
+https://par-ocsi-live-f.ovpobs.tv/live/ch75/hls/hdntl=1722166398~/live/ch75/hls/*~080-c30ee6a3e5~1eefeb9db3c5b3534060ac14e19ea1b88ec75c139a1ca7e1a0f3f256e78a1403/ch75-avc1_5154400=10005.m3u8?ateme_date_begin=1722160508
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Tennis Court 13
+https://par-ocsi-live-f.ovpobs.tv/live/ch74/hls/hdntl=1722166409~/live/ch74/hls/*~080-c30ee6a3e5~728c15c13bb7643a8acb825c5b39816546eaca278583d52d381af9dd2d6941e4/ch74-avc1_5154400=10005.m3u8?ateme_date_begin=1722160508
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Tennis Court 14
+https://par-ocsi-live-f.ovpobs.tv/live/ch28/hls/hdntl=1722166402~/live/ch28/hls/*~080-c30ee6a3e5~7523dca49df17b3fb14b646dfcd04ece6498aa22189b2394ac3f3b874c1fdd70/ch28-avc1_5154400=10005.m3u8?ateme_date_begin=1722160509
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Volleyball
+https://par-ocsi-live-f.ovpobs.tv/live/ch43/hls/hdntl=1722166758~/live/ch43/hls/*~080-c30ee6a3e5~573b810db9d1cb8d8ec22cb493fb962b1e7ea580f45409bf0e320cac7d330f33/ch43-avc1_5154400=10005.m3u8?ateme_date_begin=1722163805
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/800px-Olympic_Channel_logo.png" group-title="Olympics CHANNELS",olympics Channel Water Polo
+https://par-ocsi-live-f.ovpobs.tv/fer/ch44/hls/hdntl=1722166808~/fer/ch44/hls/*~080-c30ee6a3e5~ba69096c2120f1e50e633242deeb309065c6ab988e43efb7dc5bd09bb6105571/ch44-avc1_5154400=10005.m3u8?ateme_date_begin=1722154809&ateme_date_end=1722166139
