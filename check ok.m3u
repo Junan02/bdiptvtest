@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/220px-Ekhon_Logo.png" group-title="BANGLADESHI CHANNELS",Akhon TV
 https://anym3u8player.com/youtube.php/id/66a4647642fc5.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/220px-Ekhon_Logo.png" group-title="BANGLADESHI CHANNELS",Akhon TV
+https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" group-title="BANGLADESHI CHANNELS",ANANDA TV
 https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=1Zsi_sjYn4kJNVzrk_eSyA&expires=1721093927&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="BANGLADESHI CHANNELS",ASIAN TV
