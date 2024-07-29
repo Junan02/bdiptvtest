@@ -1295,6 +1295,8 @@ http://allinonereborn.in/allinone.php?id=51959
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg" group-title="SPORTS CHANNELS",DUBAI 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Eurosport 1 4K
+https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Eurosport 1
 http://allinonereborn.in/allinone.php?id=37678
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",EUROSPORT 1HD
