@@ -727,8 +727,6 @@ http://allinonereborn.in/allinone.php?id=57096
 http://allinonereborn.in/allinone.php?id=56699
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mtpwqxG/IMG-20240126-084807.jpg" group-title="INDIAN CHANNELS",ZEE 24 GHANTA
 https://zee28-ghanta.mssarena71.workers.dev/stream/Zee24Ghanta/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Zee Action
-http://allinonereborn.in/allinone.php?id=55797
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png" group-title="INDIAN CHANNELS",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg" group-title="INDIAN CHANNELS",Zee Alwan
@@ -1079,6 +1077,8 @@ http://allinonereborn.in/allinone.php?id=33659
 https://younghollywood-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="MOVIES Channel",Zee Action
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="MOVIES Channel",Zee Action
+http://allinonereborn.in/allinone.php?id=55797
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Zee Bangla Cinema
 http://176.119.29.52/live.ts?channelId=119&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1  tvg-logo="" group-title="MOVIES Channel",Zee Bangla Cinema
