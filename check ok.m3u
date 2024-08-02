@@ -1050,6 +1050,8 @@ http://195.26.87.217/live.ts?channelId=187&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Sony Liv",Sony Wah
 http://allinonereborn.in/allinone.php?id=46629
 #EXTINF:-1 group-title="SPORTS CHANNELS",Jp vs Spain
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
+#EXTINF:-1 group-title="SPORTS CHANNELS",Jp vs Spain
 https://play1nm.hnyongshun.cn/live/ballbar_20960.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS",A Sports
 http://allinonereborn.in/allinone.php?id=56575
