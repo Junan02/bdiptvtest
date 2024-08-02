@@ -38,6 +38,8 @@ http://allinonereborn.in/allinone.php?id=46159
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS",DBC News
 http://allinonereborn.in/allinone.php?id=54476
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS",Deepto
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS",Deepto
 http://allinonereborn.in/allinone.php?id=53704
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/pzwWtLg/IMG-20240320-114517.jpg",Desh TV
 http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -1053,6 +1055,8 @@ http://allinonereborn.in/allinone.php?id=46629
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
 #EXTINF:-1 group-title="SPORTS CHANNELS",Jp vs Spain
 https://play1nm.hnyongshun.cn/live/ballbar_20960.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS",egy
+https://play1nm.hnyongshun.cn/live/ballbar_39690.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS",A Sports
 http://allinonereborn.in/allinone.php?id=56575
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ZtYFbJLUv0uDzLdM0x8Of5BsjuqM9i5LAg&s",Arena Sport 1 HD
@@ -1131,6 +1135,18 @@ https://raycoms-originsports.amagi.tv/playlist.m3u8
 http://allinonereborn.in/allinone.php?id=57288
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://e1.pxfuel.com/desktop-wallpaper/157/435/desktop-wallpaper-real-madrid-tv-online.jpg",RMA TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
+#EXTINF:-1 group-title="SPORTS CHANNELS",rtm ch 1
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
+#EXTINF:-1 group-title="SPORTS CHANNELS",rtm ch 2
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
+#EXTINF:-1 group-title="SPORTS CHANNELS",rtm ch 3
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
+#EXTINF:-1 group-title="SPORTS CHANNELS",rtm ch 4
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
+#EXTINF:-1 group-title="SPORTS CHANNELS",rtm ch 5
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
+#EXTINF:-1 group-title="SPORTS CHANNELS",rtm ch 6
+https://d30aylox5wvifh.cloudfront.net/event/smil:event1/manifest.mpd
 #EXTINF:-1 group-title="SPORTS CHANNELS",Sky news HD
 http://allinonereborn.in/allinone.php?id=57588
 #EXTINF:-1 group-title="SPORTS CHANNELS",Sony Six
