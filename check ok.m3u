@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/220px-Ekhon_Logo.png",Akhon TV
 https://anym3u8player.com/youtube.php/id/66a4647642fc5.m3u8
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/220px-Ekhon_Logo.png",Akhon TV
+https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS",ATN Bangla
 http://allinonereborn.in/allinone.php?id=57665
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS",ATN News
@@ -37,9 +39,9 @@ http://208.86.19.13:81/510.stream/index.m3u8?
 http://allinonereborn.in/allinone.php?id=46159
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS",DBC News
 http://allinonereborn.in/allinone.php?id=54476
-#EXTINF:-1 group-title="BANGLADESHI CHANNELS",Deepto
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS", tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png"Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 group-title="BANGLADESHI CHANNELS",Deepto
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png",Deepto TV
 http://allinonereborn.in/allinone.php?id=53704
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/pzwWtLg/IMG-20240320-114517.jpg",Desh TV
 http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -49,8 +51,6 @@ http://allinonereborn.in/allinone.php?id=10449
 http://allinonereborn.in/allinone.php?id=48989
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/vVPgYDX/IMG-20240126-103034.png",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png",Dipto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS",Duronto TV
 http://allinonereborn.in/allinone.php?id=53954
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS",Ekattor TV
@@ -396,6 +396,10 @@ http://allinonereborn.in/allinone.php?id=30494
 #EXTINF:-1 group-title="INDIAN CHANNELS",Discovery Family HD
 http://allinonereborn.in/allinone.php?id=47264
 #EXTINF:-1 group-title="INDIAN CHANNELS",Discovery HD
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 group-title="INDIAN CHANNELS",Discovery HD
+https://shiki.tv-shihab.xyz/discovery.m3u8
+#EXTINF:-1 group-title="INDIAN CHANNELS",Discovery HD
 http://allinonereborn.in/allinone.php?id=47099
 #EXTINF:-1 group-title="INDIAN CHANNELS",Discovery Kids India
 http://allinonereborn.in/allinone.php?id=38098
@@ -677,9 +681,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_un
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN CHANNELS",Zoom
 http://allinonereborn.in/allinone.php?id=50464
-#EXTINF:-1 group-title="INFOTAINMENT CHANNELS",ANIMAL  PLANET
+#EXTINF:-1 group-title="INFOTAINMENT CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635",Animal Planet HD Multi
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635",Animal Planet HD
 http://allinonereborn.in/allinone.php?id=48494
-#EXTINF:-1 group-title="INFOTAINMENT CHANNELS",Animal Planet HD
+#EXTINF:-1 group-title="INFOTAINMENT CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635",Animal Planet HD
 http://allinonereborn.in/allinone.php?id=50219
 #EXTINF:-1 group-title="INFOTAINMENT CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635",Animal Planet HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
@@ -775,6 +781,8 @@ https://tastemade-aus-tmina-rakuten.amagi.tv/playlist.m3u8
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TLC-HD-Logo_2019.svg/512px-TLC-HD-Logo_2019.svg.png?20200523103532",TLC HD
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TLC-HD-Logo_2019.svg/512px-TLC-HD-Logo_2019.svg.png?20200523103532",TLC HD Multi
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT CHANNELS",Wild Earth
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT CHANNELS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMtMLeBVE7c53EhV6mE2qLnYOXyz_jz9Xiw&usqp=CAU",Wild Earth
@@ -845,6 +853,8 @@ http://allinonereborn.in/allinone.php?id=49369
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",POGO
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="KIDS CHANNELS",Sony Wah! India
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=2802
 #EXTINF:-1 group-title="KIDS CHANNELS",Sony Yay! India
 http://allinonereborn.in/allinone.php?id=34198
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="https://i.ibb.co/tpzX0DM/IMG-20240126-095849.png",SPACETOON
@@ -897,10 +907,14 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 https://moviesphere-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2yCiVvPQg7s2aqkTT_L0F723emvi9whM_g&usqp=CAU",MTV Beats
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:C2:86&stream=1118070&extension=m3u8&play_token=EjRbwmymO9
+#EXTINF:-1  tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="MOVIES Channel",Rakuten TV
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="MOVIES Channel",SHEEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES Channel" tvg-logo="https://i.ibb.co/CKWBHZJ/67d902f2-c127-464a-94c4-2226a1feb655.png",SHEMAROO BOLLYWOOD
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/48?cb=20190815211939" group-title="MOVIES Channel",Sony Movies
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/48?cb=20190815211939",Sony Movies
 http://cord-cutter.net:8080/21093432/85321533/2214
 #EXTINF:-1 group-title="MOVIES Channel",Star Jalsha Movies
@@ -1025,6 +1039,8 @@ http://allinonereborn.in/allinone.php?id=54736
 http://allinonereborn.in/allinone.php?id=55286
 #EXTINF:-1 group-title="Sony Liv",Sony HD USA
 http://allinonereborn.in/allinone.php?id=54661
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest?cb=20240615084342" group-title="Sony Liv",Sony KAL
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sony Liv",Sony Max 2
 http://allinonereborn.in/allinone.php?id=50814
 #EXTINF:-1 group-title="Sony Liv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",Sony Max 2 UK(BD)
@@ -1115,6 +1131,8 @@ http://allinonereborn.in/allinone.php?id=51959
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg",DUBAI 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Eurosport 4K
+https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS",Eurosport 1
 http://allinonereborn.in/allinone.php?id=37678
 #EXTINF:-1 group-title="SPORTS CHANNELS",Eurosport 2
