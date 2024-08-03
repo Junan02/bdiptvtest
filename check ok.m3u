@@ -687,7 +687,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 http://allinonereborn.in/allinone.php?id=48494
 #EXTINF:-1 group-title="INFOTAINMENT CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635",Animal Planet HD
 http://allinonereborn.in/allinone.php?id=50219
-#EXTINF:-1 group-title="INFOTAINMENT CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635",Animal Planet HD
+#EXTINF:-1 group-title="INFOTAINMENT CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635",Animal Planet HD Multi
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT CHANNELS" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635",Animal Planet HD
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
@@ -1167,6 +1167,8 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
 https://d30aylox5wvifh.cloudfront.net/event/smil:event1/manifest.mpd
 #EXTINF:-1 group-title="SPORTS CHANNELS",Sky news HD
 http://allinonereborn.in/allinone.php?id=57588
+#EXTINF:-1 group-title="SPORTS CHANNELS",Sky Open
+https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS",Sony Six
 http://allinonereborn.in/allinone.php?id=56332
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",Sony Sports Ten1
