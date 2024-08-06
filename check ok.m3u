@@ -2887,6 +2887,8 @@ https://jio.dinesh29.com.np/live/jio-universal/zee-yuva/index.ts
 https://jio.dinesh29.com.np/live/jio-universal/zee-zest-hd/index.ts
 #EXTINF:-1  tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-zest-sd.png" group-title="JIO",Zee Zest SD
 https://jio.dinesh29.com.np/live/jio-universal/zee-zest-sd/index.ts
+#EXTINF:-1  tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/animax.png" group-title="KIDS CHANNELS",Animax HD
+https://stream1.freetv.fun/animax-1.m3u8
 #EXTINF:-1  tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/animax.png" group-title="KIDS CHANNELS",Animax
 https://jio.dinesh29.com.np/live/jio-universal/animax/index.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="KIDS CHANNELS",Animax En
@@ -3261,6 +3263,10 @@ http://allinonereborn.in/allinone.php?id=57404
 https://jio.dinesh29.com.np/live/jio-universal/zoom/index.ts
 #EXTINF:-1  tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/zoom.gif" group-title="MUSIC CHANNELS",ZOOM MUSIC
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Olympics"Olympics 1
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Olympics"RTM
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Olympics",CBC
 https://pl.56dgggnjd0.shop/playlist/24272/red1.opiuy887ree.shop/caxi.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Olympics",CNBC
