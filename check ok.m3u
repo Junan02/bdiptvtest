@@ -305,31 +305,31 @@ http://192.144.82.200:9302/;stream/1;;
 http://peridot.streamguys.com:7150/Mirchi
 #EXTINF:-1  tvg-logo="https://i.ibb.co/rZFZZy4/IMG-20240212-215212.png" group-title="FM RADIO",Radio Padma (99.2)
 http://cassini.shoutca.st:9109/radiopadma.mp3
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Hindi Movies",Colors Cineplex Ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="MOVIES",Colors Cineplex Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=470
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Movies",Star Gold HD
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="MOVIES",Star Gold HD
 http://tv.cloudcdn.me/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Movies",Star Gold HD Ts
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="MOVIES",Star Gold HD Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=196
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest?cb=20211215235100" group-title="Hindi Movies",Star Gold 2
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest?cb=20211215235100" group-title="MOVIES",Star Gold 2
 http://premiumdedi.one/Jubilant7Relative/xmb1HEJBsY/451521
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg" group-title="Hindi Movies",Star Gold Select HD
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg" group-title="MOVIES",Star Gold Select HD
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts 
-#EXTINF:-1  tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-cinema.png" group-title="Hindi Movies",Zee Cinema
+#EXTINF:-1  tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-cinema.png" group-title="MOVIES",Zee Cinema
 https://jio.dinesh29.com.np/live/jio-universal/zee-cinema/index.ts
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies",Zee Cinema HD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",Zee Cinema HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=8658
-#EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" group-title="Hindi Movies",ZEE CINEMA HD
+#EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" group-title="MOVIES",ZEE CINEMA HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTV7JttP0I-adyJXqoE-DWaoSPcO3O5xV0SRw4c-DQw&s" group-title="Hindi Movies",ZEE CINEMA HD
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSTV7JttP0I-adyJXqoE-DWaoSPcO3O5xV0SRw4c-DQw&s" group-title="MOVIES",ZEE CINEMA HD
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
-#EXTINF:-1  tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-cinema-hd.png" group-title="Hindi Movies",Zee Cinema HD
+#EXTINF:-1  tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-cinema-hd.png" group-title="MOVIES",Zee Cinema HD
 https://jio.dinesh29.com.np/live/jio-universal/zee-cinema-hd/index.ts
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies",Zee Cinema HD Ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",Zee Cinema HD Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=213
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies",Zee Cinema HD(p)
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="MOVIES",Zee Cinema HD(p)
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11693
-#EXTINF:-1  tvg-logo="" group-title="Hindi Movies",Zee Cinema HD-India
+#EXTINF:-1  tvg-logo="" group-title="MOVIES",Zee Cinema HD-India
 http://allinonereborn.in/allinone.php?id=52594
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="Hindi News",Aaj Tak
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@aajtak
