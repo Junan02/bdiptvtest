@@ -3275,6 +3275,8 @@ http://livetvbox.live:8080/live/john1947/john1947/370474.ts
 http://allinonereborn.in/allinone.php?id=37683
 #EXTINF:-1  tvg-logo="" group-title="Olympics",Eurosport 4K
 https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Olympics",Claro Sport
+https://jmp2.uk/PlutoTV/6320d80a66666000086712d7-alt.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Olympics",Sky Sports 4
 http://livetvbox.live:8080/live/john1947/john1947/370509.ts
 #EXTINF:-1  tvg-logo="" group-title="Olympics",Sky Sports 6
