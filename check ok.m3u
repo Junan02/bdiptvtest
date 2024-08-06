@@ -939,20 +939,14 @@ http://iptv.prosto.tv:7000/ch84/video.m3u8
 http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" group-title="INFOTAINMENT CHANNELS",Discovery
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
 #EXTINF:-1  tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/discovery.png" group-title="INFOTAINMENT CHANNELS",Discovery
 https://jio.dinesh29.com.np/live/jio-universal/discovery/index.ts
 #EXTINF:-1  tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/discovery-bengali.png" group-title="INFOTAINMENT CHANNELS",Discovery Bengali
 https://jio.dinesh29.com.np/live/jio-universal/discovery-bengali/index.ts
-#EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",Discovery Family HD
-http://allinonereborn.in/allinone.php?id=47264
 #EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",Discovery HD
+#EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",Discovery HD Multi
 https://shiki.tv-shihab.xyz/discovery.m3u8
-#EXTINF:-1  tvg-logo="" group-title="INFOTAINMENT CHANNELS",Discovery HD
-http://allinonereborn.in/allinone.php?id=47099
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7Xqcg3M/IMG-20240129-071722.png" group-title="INFOTAINMENT CHANNELS",Discovery HD CA
 http://cord-cutter.net:8080/21093432/85321533/57252
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" group-title="INFOTAINMENT CHANNELS",Discovery HD Multi Audio
@@ -3263,9 +3257,9 @@ http://allinonereborn.in/allinone.php?id=57404
 https://jio.dinesh29.com.np/live/jio-universal/zoom/index.ts
 #EXTINF:-1  tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/zoom.gif" group-title="MUSIC CHANNELS",ZOOM MUSIC
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Olympics"Olympics 1
+#EXTINF:-1  tvg-logo="" group-title="Olympics",Olympics 1
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Olympics"RTM
+#EXTINF:-1  tvg-logo="" group-title="Olympics",RTM
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Olympics",CBC
 https://pl.56dgggnjd0.shop/playlist/24272/red1.opiuy887ree.shop/caxi.m3u8
