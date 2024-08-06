@@ -307,8 +307,14 @@ http://peridot.streamguys.com:7150/Mirchi
 http://cassini.shoutca.st:9109/radiopadma.mp3
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Hindi Movies",Colors Cineplex Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=470
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Movies",Star Gold HD
+http://tv.cloudcdn.me/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Movies",Star Gold HD Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=196
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest?cb=20211215235100" group-title="Hindi Movies",Star Gold 2
+http://premiumdedi.one/Jubilant7Relative/xmb1HEJBsY/451521
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg" group-title="Hindi Movies",Star Gold Select HD
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts 
 #EXTINF:-1  tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-cinema.png" group-title="Hindi Movies",Zee Cinema
 https://jio.dinesh29.com.np/live/jio-universal/zee-cinema/index.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies",Zee Cinema HD
@@ -783,6 +789,8 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=200
 http://allinonereborn.in/allinone.php?id=53699
 #EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Star Plus-UK (cc)
 http://allinonereborn.in/allinone.php?id=57925
+#EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Star Utsav
+http://tv.cloudcdn.me/live.ts?channelId=12364&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Star Utsav India
 http://allinonereborn.in/allinone.php?id=50729
 #EXTINF:-1  tvg-logo="" group-title="INDIAN CHANNELS",Star Utsav Movies
@@ -3522,6 +3530,8 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=290
 #EXTINF:-1  tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS CHANNELS",Sony Sports Ten 3 HD
 http://176.119.29.52/live.ts?channelId=291&deviceMac=00:1A:79:0A:CA:4F
 #EXTINF:-1  tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/sony-ten-3-hd-hindi.png" group-title="SPORTS CHANNELS",Sony Sports Ten 3 HD Hindi
+http://176.119.29.52/live.ts?channelId=39098&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1  tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/sony-ten-3-hd-hindi.png" group-title="SPORTS CHANNELS",Sony Sports Ten 3 HD Hindi
 https://jio.dinesh29.com.np/live/jio-universal/sony-ten-3-hd-hindi/index.ts
 #EXTINF:-1  tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="SPORTS CHANNELS",Sony Sports Ten 3 HD(c)
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=6906
@@ -3583,6 +3593,10 @@ http://allinonereborn.in/allinone.php?id=51919
 http://allinonereborn.in/allinone.php?id=57020
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAuliIifLYXySFw1QHwA1DLN-ZlE9jdDinJvGyL1V5kQxRTuPk7dxSGfd&s=10" group-title="SPORTS CHANNELS",Star sports 1
 http://103.120.172.74:4100
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Star_Sports_2.png/640px-Star_Sports_2.png" group-title="SPORTS CHANNELS",Star Sports 1 HD
+http://176.119.29.52/live.ts?channelId=293&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Star_Sports_2.png/640px-Star_Sports_2.png" group-title="SPORTS CHANNELS",Star Sports 1 HD Hindi
+http://176.119.29.52/live.ts?channelId=295&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Star Sports 1 ENG-HD
 http://allinonereborn.in/allinone.php?id=54301
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Star_Sports_2.png/640px-Star_Sports_2.png" group-title="SPORTS CHANNELS",Star Sports 1 HD
@@ -3603,18 +3617,24 @@ http://14.102.123.50:9080/play/a0nb
 http://103.120.172.74:4700
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uFTJguA2rSqLTUEzkXstc4BLdL-1-6baBKMzXJNsJg&s" group-title="SPORTS CHANNELS",Star sports 2
 http://103.120.172.74:4800
-#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Star Sports 2 HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bzL3gw5/1687766937154.pngg" group-title="SPORTS CHANNELS",Star Sports 2 HD
+http://176.119.29.52/live.ts?channelId=298&uid=7245&deviceMac=00:1A:79:B0:A9:0C 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bzL3gw5/1687766937154.pngg" group-title="SPORTS CHANNELS",Star Sports 2 HD
 http://allinonereborn.in/allinone.php?id=45699
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bzL3gw5/1687766937154.pngg" group-title="SPORTS CHANNELS",Star Sports 2 HD(h)
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=49568
-#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Star Sports 2_HD
+#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Star Sports 2 HD
 http://allinonereborn.in/allinone.php?id=51914
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Star Sports -Hindi
 http://allinonereborn.in/allinone.php?id=54059
-#EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",Star Sports Select 1 HD
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="SPORTS CHANNELS",Star Sports Select 1 HD
+http://176.119.29.52/live.ts?channelId=299&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="SPORTS CHANNELS",Star Sports Select 1 HD
 http://103.120.172.74:1030
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="SPORTS CHANNELS",Star Sports Select 1 HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=299
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="SPORTS CHANNELS",Star Sports Select 2 HD
+http://176.119.29.52/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Star-sports-select-1-hd.png" group-title="SPORTS CHANNELS",Star Sports Select 2 HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=300
 #EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="SPORTS CHANNELS",Super Cricket
