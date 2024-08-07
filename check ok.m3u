@@ -3,6 +3,8 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 
+#EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/atn_bangla.jpg" group-title="BANGLADESHI CHANNELS", Jamuna Test
+https://live.bongobd.com/hls/4aSBx36qIw9YabyUBacqjQ/1723055847/jamuna_tv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/atn_bangla.jpg" group-title="BANGLADESHI CHANNELS", ATN BANGLA
 https://bdix.proximitybd.xyz/jado.php?id=atn_bangla
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="BANGLADESHI CHANNELS",ATN Bangla
