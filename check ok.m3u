@@ -3903,8 +3903,11 @@ http://livetvbox.live:8080/live/john1947/john1947/370563.ts
 http://livetvbox.live:8080/live/john1947/john1947/370564.ts
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="Olympics",Super Sports 7
 http://livetvbox.live:8080/live/john1947/john1947/370565.ts
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="Olympics",USA Network
+#EXTINF:-1  tvg-id="" tvg-logo="http://epg.it999.ru/img2/2342.png" group-title="Olympics",USA
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/1101/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="http://epg.it999.ru/img2/2342.png" group-title="Olympics",USA
 https://pl.563dhbfbns.shop/playlist/24107/redi512.kfitee.space/caxi.m3u8
+
 #EXTINF:-1  tvg-id="291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SET HD
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=291&e=.m3u
 #EXTINF:-1  tvg-id="1396" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Sony Liv",Set SD
@@ -4017,6 +4020,32 @@ https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-wah/index.ts
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=2802
 #EXTINF:-1  tvg-id="1425" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="SPORTS CHANNELS",1Sports
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1425&e=.m3u
+#EXTINF:-1  tvg-id="4563" tvg-logo="http://epg.it999.ru/img2/4563.png" group-title="SPORTS CHANNELS",Arena Sport 1 FHD HR
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/7263/index.m3u8
+#EXTINF:-1  tvg-id="4563" tvg-logo="http://epg.it999.ru/img2/4563.png" group-title="SPORTS CHANNELS",Arena Sport 1 HD HR
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/7329/index.m3u8
+#EXTINF:-1  tvg-id="2934" tvg-logo="http://epg.it999.ru/img2/2934.png" group-title="SPORTS CHANNELS",Arena Sport 1 SK
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/2550/index.m3u8
+#EXTINF:-1  tvg-id="4564" tvg-logo="http://epg.it999.ru/img2/4564.png" group-title="SPORTS CHANNELS",Arena Sport 2 FHD HR
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/7264/index.m3u8
+#EXTINF:-1  tvg-id="4564" tvg-logo="http://epg.it999.ru/img2/4564.png" group-title="SPORTS CHANNELS",Arena Sport 2 HD HR
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/7330/index.m3u8
+#EXTINF:-1  tvg-id="4565" tvg-logo="http://epg.it999.ru/img2/4565.png" group-title="SPORTS CHANNELS",Arena Sport 3 FHD HR
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/7265/index.m3u8
+#EXTINF:-1  tvg-id="4565" tvg-logo="http://epg.it999.ru/img2/4565.png" group-title="SPORTS CHANNELS",Arena Sport 3 HD HR
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/7331/index.m3u8
+#EXTINF:-1  tvg-id="4566" tvg-logo="http://epg.it999.ru/img2/4566.png" group-title="SPORTS CHANNELS",Arena Sport 4 FHD HR
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/7266/index.m3u8
+#EXTINF:-1  tvg-id="4566" tvg-logo="http://epg.it999.ru/img2/4566.png" group-title="SPORTS CHANNELS",Arena Sport 4 HD HR
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/7332/index.m3u8
+#EXTINF:-1  tvg-id="4567" tvg-logo="http://epg.it999.ru/img2/4567.png" group-title="SPORTS CHANNELS",Arena Sport 5 FHD HR
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/7267/index.m3u8
+#EXTINF:-1  tvg-id="4567" tvg-logo="http://epg.it999.ru/img2/4567.png" group-title="SPORTS CHANNELS",Arena Sport 5 HD HR
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/7333/index.m3u8
+#EXTINF:-1  tvg-id="4568" tvg-logo="http://epg.it999.ru/img2/4568.png" group-title="SPORTS CHANNELS",Arena Sport 6 FHD HR
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/7268/index.m3u8
+#EXTINF:-1  tvg-id="4568" tvg-logo="http://epg.it999.ru/img2/4568.png" group-title="SPORTS CHANNELS",Arena Sport 6 HD HR
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/7334/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ZtYFbJLUv0uDzLdM0x8Of5BsjuqM9i5LAg&s" group-title="SPORTS CHANNELS",Arena Sport 1 HD
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:-1  tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZRVMGd66VwKN6xLI1NI9vTtGlk7ahquKPA&s" group-title="SPORTS CHANNELS",Arena Sport 2 HD
@@ -4065,6 +4094,45 @@ https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1675&e=.m3
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1294&e=.m3u
 #EXTINF:-1  tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/eurosport.png" group-title="SPORTS CHANNELS",Eurosport
 https://jio.dinesh29.com.np/live/jio-universal/eurosport/index.ts
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/141/index.m3u8
+#EXTINF:-1  tvg-id="2052" tvg-logo="http://epg.it999.ru/img2/2052.png" group-title="SPORTS CHANNELS",Eurosport 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/228/index.m3u8
+#EXTINF:-1  tvg-id="2052" tvg-logo="http://epg.it999.ru/img2/2052.png" group-title="SPORTS CHANNELS",Eurosport 1 HD CEE
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/20069/index.m3u8
+#EXTINF:-1  tvg-id="6543" tvg-logo="http://epg.it999.ru/img2/6543.png" group-title="SPORTS CHANNELS",Eurosport 1 HD IT
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/19115/index.m3u8
+#EXTINF:-1  tvg-id="2747" tvg-logo="http://epg.it999.ru/img2/2747.png" group-title="SPORTS CHANNELS",Eurosport 1 HD NL
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/4004/index.m3u8
+#EXTINF:-1  tvg-id="2052" tvg-logo="http://epg.it999.ru/img2/2052.png" group-title="SPORTS CHANNELS",Eurosport 1 HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/5075/index.m3u8
+#EXTINF:-1  tvg-id="3734" tvg-logo="http://epg.it999.ru/img2/3734.png" group-title="SPORTS CHANNELS",Eurosport 1 HD RO
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/6992/index.m3u8
+#EXTINF:-1  tvg-id="4902" tvg-logo="http://epg.it999.ru/img2/4902.png" group-title="SPORTS CHANNELS",EUROSPORT 1 HD SE
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/12047/index.m3u8
+#EXTINF:-1  tvg-id="3885" tvg-logo="http://epg.it999.ru/img2/3885.png" group-title="SPORTS CHANNELS",Eurosport 1 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/6829/index.m3u8
+#EXTINF:-1  tvg-id="2052" tvg-logo="http://epg.it999.ru/img2/2052.png" group-title="SPORTS CHANNELS",Eurosport 1 orig
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/9247/index.m3u8
+#EXTINF:-1  tvg-id="4313" tvg-logo="http://epg.it999.ru/img2/4313.png" group-title="SPORTS CHANNELS",Eurosport 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/7203/index.m3u8
+#EXTINF:-1  tvg-id="4313" tvg-logo="http://epg.it999.ru/img2/4313.png" group-title="SPORTS CHANNELS",Eurosport 2 HD CEE
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/20070/index.m3u8
+#EXTINF:-1  tvg-id="6544" tvg-logo="http://epg.it999.ru/img2/6544.png" group-title="SPORTS CHANNELS",Eurosport 2 HD IT
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/19116/index.m3u8
+#EXTINF:-1  tvg-id="4313" tvg-logo="http://epg.it999.ru/img2/4313.png" group-title="SPORTS CHANNELS",Eurosport 2 HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/5076/index.m3u8
+#EXTINF:-1  tvg-id="4903" tvg-logo="http://epg.it999.ru/img2/4903.png" group-title="SPORTS CHANNELS",EUROSPORT 2 HD SE
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/12048/index.m3u8
+#EXTINF:-1  tvg-id="3886" tvg-logo="http://epg.it999.ru/img2/3886.png" group-title="SPORTS CHANNELS",Eurosport 2 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/6830/index.m3u8
+#EXTINF:-1  tvg-id="3554" tvg-logo="http://epg.it999.ru/img2/3554.png" group-title="SPORTS CHANNELS",EUROSPORT 2 HD UK
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/6556/index.m3u8
+#EXTINF:-1  tvg-id="5883" tvg-logo="http://epg.it999.ru/img2/5883.png" group-title="SPORTS CHANNELS",Eurosport HD DE
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/15179/index.m3u8
+#EXTINF:-1  tvg-id="6498" tvg-logo="http://epg.it999.ru/img2/6498.png" group-title="SPORTS CHANNELS",Eurosport360 1 HD DE
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/19039/index.m3u8
+#EXTINF:-1  tvg-id="6499" tvg-logo="http://epg.it999.ru/img2/6499.png" group-title="SPORTS CHANNELS",Eurosport360 2 HD DE
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/19040/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",Eurosport 4K
 https://dash2.antik.sk/live/test_esp2ktvapps_uhd/playlist.m3u8
 #EXTINF:-1  tvg-id="875" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="SPORTS CHANNELS",Eurosport HD
@@ -4325,6 +4393,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1882&e=.m3u
 #EXTINF:-1  tvg-id="1061" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST5_HD.png" group-title="SPORTS CHANNELS",TEST5 HD
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1061&e=.m3u
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="SPORTS CHANNELS",TNT Sports 1 -_-
+http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/19051/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="SPORTS CHANNELS",TNT Sports 1
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=23564
 #EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="SPORTS CHANNELS",TNT Sports 2
@@ -4413,7 +4483,7 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=198
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="Star Channels",STAR PLUS HD
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Star Channels",Star Plus HD Tata
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Star Channels",Star Plus HD Tatasony
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=902
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Star Channels",Star Plus HD Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=200
