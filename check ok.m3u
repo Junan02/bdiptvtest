@@ -3927,6 +3927,8 @@ https://jio.dinesh29.com.np/live/jio-universal/sony-liv-exclusive/index.ts
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1146&e=.m3u
 #EXTINF:-1  tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/sony-marathi-sd.png" group-title="Sony Liv",Sony Marathi SD
 https://jio.dinesh29.com.np/live/jio-universal/sony-marathi-sd/index.ts
+#EXTINF:-1  tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Sony Liv",Sony Max 2 -_-
+http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Sony Liv",Sony Max 2
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-max-2/index.ts
 #EXTINF:-1  tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Sony Liv",Sony Max 2 UK(BD)
@@ -4375,12 +4377,16 @@ http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=2756&e=.m3u
 #EXTINF:-1  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest?cb=20211215235100" group-title="Star Channels",Star Gold 2
 http://premiumdedi.one/Jubilant7Relative/xmb1HEJBsY/451521
+#EXTINF:-1  tvg-id="" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Star Channels",Star Gold HD -_-
+http://humsab.xyz/IN_STGOLD/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Star Channels",Star Gold HD
 http://tv.cloudcdn.me/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1  tvg-id="" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Star Channels",Star Gold HD
 http://xtv.ooo:8080/live/faisal45/4071095/109959.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Star Channels",Star Gold HD Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=196
+#EXTINF:-1  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg" group-title="Star Channels",Star Gold Select HD -_-
+http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8 
 #EXTINF:-1  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg" group-title="Star Channels",Star Gold Select HD
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts 
 #EXTINF:-1  tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyEnOgtWwBJE-_YGGf0MRtpfshuW9HfnjG2UlpFw8_EN_QizDHRrvaoT_&s=10" group-title="Star Channels",Star India
