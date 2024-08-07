@@ -309,6 +309,8 @@ http://cassini.shoutca.st:9109/radiopadma.mp3
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=470
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="MOVIES",Star Gold HD
 http://tv.cloudcdn.me/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="MOVIES",Star Gold HD
+http://xtv.ooo:8080/live/faisal45/4071095/109959.m3u8
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="MOVIES",Star Gold HD Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=196
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest?cb=20211215235100" group-title="MOVIES",Star Gold 2
@@ -3689,6 +3691,8 @@ https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=23
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=148090
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="SPORTS CHANNELS",TNT Sports 4
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=186630
+#EXTINF:-1  tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD -_-
+https://tsports.buddyxiptv.com/master_1080.m3u8
 #EXTINF:-1  tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1  tvg-logo="" group-title="SPORTS CHANNELS",TSports HD
