@@ -167,17 +167,17 @@ https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=259&e=.m3u
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=259&e=.m3u
 #EXTINF:-1  tvg-name="Zee Business" tvg-id="657" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="Business",Zee Business
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=657&e=.m3u
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVVRkAArO6GFn6dSd4eSm17wsY4vCloe4qQ&usqp=CAU" group-title="Colors",Colors
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVVRkAArO6GFn6dSd4eSm17wsY4vCloe4qQ&usqp=CAU" group-title="Colors",Colors HD low -_-
 http://103.120.172.74:1070
 #EXTINF:-1  tvg-name="" tvg-id="1657" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Colors",Colors Bangla Cinema
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1657&e=.m3u
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/colors-bangla-cinema.png" group-title="Colors",Colors Bangla Cinema
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/colors-bangla-cinema.png" group-title="Colors",Colors Bangla Cinema -_-
 https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-cinema/index.ts
 #EXTINF:-1  tvg-name="Colors Bangla Cinema" tvg-id="1657" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Colors",Colors Bangla Cinema
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1657&e=.m3u
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Colors",COLORS BANGLA HD
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Colors",COLORS BANGLA HD low -_-
 https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Colors",Colors Bangla HD
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Colors",Colors Bangla HD low -_-
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10932
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Colors",Colors Bangla HD Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=92
@@ -185,25 +185,25 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=92
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12119
 #EXTINF:-1  tvg-name="" tvg-id="1369" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="Colors",Colors Bangla SD
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1369&e=.m3u
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/colors-bangla-sd.png" group-title="Colors",Colors Bangla SD
+#EXTINF:-1  tvg-name="" tvg-id="1369" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="Colors",Colors Bangla SD -_-
 https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-sd/index.ts
-#EXTINF:-1  tvg-name="Colors Bangla SD" tvg-id="1369" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="Colors",Colors Bangla SD
+#EXTINF:-1  tvg-name="Colors Bangla SD" tvg-id="1369" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="Colors",Colors Bangla SD 
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1369&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="756" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Colors",Colors Bengali HD
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=756&e=.m3u
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/colors-bengali-hd.png" group-title="Colors",Colors Bengali HD
+#EXTINF:-1  tvg-name="Colors Bengali HD" tvg-id="756" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Colors",Colors Bangla HD
 https://jio.dinesh29.com.np/live/jio-universal/colors-bengali-hd/index.ts
-#EXTINF:-1  tvg-name="Colors Bengali HD" tvg-id="756" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Colors",Colors Bengali HD
+#EXTINF:-1  tvg-name="Colors Bengali HD" tvg-id="756" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Colors",Colors Bengali HD -_-
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=756&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Colors",Colors Cineplex
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=482&e=.m3u
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/colors-cineplex.png" group-title="Colors",Colors Cineplex
+#EXTINF:-1  tvg-name="Colors Cineplex" tvg-id="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Colors",Colors Cineplex -_-
 https://jio.dinesh29.com.np/live/jio-universal/colors-cineplex/index.ts
 #EXTINF:-1  tvg-name="Colors Cineplex" tvg-id="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Colors",Colors Cineplex
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=482&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="1763" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Colors",Colors Cineplex Bollywood
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1763&e=.m3u
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/colors-cineplex-bollywood.png" group-title="Colors",Colors Cineplex Bollywood
+#EXTINF:-1  tvg-name="Colors Cineplex Bollywood" tvg-id="1763" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Colors",Colors Cineplex Bollywood -_-
 https://jio.dinesh29.com.np/live/jio-universal/colors-cineplex-bollywood/index.ts
 #EXTINF:-1  tvg-name="Colors Cineplex Bollywood" tvg-id="1763" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Colors",Colors Cineplex Bollywood
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1763&e=.m3u
@@ -213,10 +213,10 @@ http://195.26.87.217/live.ts?channelId=470&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1  tvg-name="" tvg-id="1477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Colors",Colors Cineplex HD
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1477&e=.m3u
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/colors-cineplex-hd.png" group-title="Colors",Colors Cineplex HD
-https://jio.dinesh29.com.np/live/jio-universal/colors-cineplex-hd/index.ts
 #EXTINF:-1  tvg-name="Colors Cineplex HD" tvg-id="1477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Colors",Colors Cineplex HD
-https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1477&e=.m3u
+https://jio.dinesh29.com.np/live/jio-universal/colors-cineplex-hd/index.ts
+#EXTINF:-1  tvg-name="Colors Cineplex HD" tvg-id="1477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Colors",Colors Cineplex HD -_-
+https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1477&e=.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.postimg.cc/Kvd04ppM/640px-Colors-Cineplex-Superhits-logo.jpg" group-title="Colors",Colors Cineplex Superhit
 http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-name="" tvg-id="1450" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Colors",Colors Cineplex Superhit
@@ -5389,7 +5389,7 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=697&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/sony-aath.png" group-title="Sony Liv",Sony aath
 https://jio.dinesh29.com.np/live/jio-universal/sony-aath/index.ts
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Sony Liv",Sony Aath
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Sony Liv",Sony Aath Liv -_-
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-aath/index.ts
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Sony Liv",Sony Aath Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=44150
@@ -5399,14 +5399,14 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://jio.dinesh29.com.np/live/jio-universal/sony-liv-exclusive/index.ts
 #EXTINF:-1  tvg-name="Sony Marathi SD" tvg-id="1146" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony Liv",Sony Marathi SD
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1146&e=.m3u
-#EXTINF:-1  tvg-name="" tvg-id="1146" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony Liv",Sony Marathi SD
+#EXTINF:-1  tvg-name="" tvg-id="1146" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony Liv",Sony Marathi SD -_-
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1146&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/sony-marathi-sd.png" group-title="Sony Liv",Sony Marathi SD
 https://jio.dinesh29.com.np/live/jio-universal/sony-marathi-sd/index.ts
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Sony Liv",Sony Max 2
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-max-2/index.ts
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Sony Liv",Sony Max 2 -_-
-http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Sony Liv",Sony Max 2 liv -_-
+http://humsab.xyz/IN_S_X2/mpegts
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Sony Liv",Sony Max 2 UK(BD)
 http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-name="Sony Max HD" tvg-id="476" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony Liv",Sony Max HD
@@ -5417,11 +5417,11 @@ http://195.26.87.217/live.ts?channelId=185&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=476&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/sony-max-hd.png" group-title="Sony Liv",Sony Max HD
 https://jio.dinesh29.com.np/live/jio-universal/sony-max-hd/index.ts
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Sony Liv",SONY MAX HD
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Sony Liv",SONY MAX HD liv -_-
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-max-hd/index.ts
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Sony Liv",Sony Max HD Ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Sony Liv",Sony Max HD liv
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=184
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Sony Liv",Sony Max HD(c)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Sony Liv",Sony Max HD -_-
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24621
 #EXTINF:-1  tvg-name="Sony Max SD" tvg-id="289" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Sony Liv",Sony Max SD
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=289&e=.m3u
@@ -5429,15 +5429,15 @@ https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=289&e=.m3u
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=289&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/sony-max-sd.png" group-title="Sony Liv",Sony Max SD
 https://jio.dinesh29.com.np/live/jio-universal/sony-max-sd/index.ts
-#EXTINF:-1  tvg-name="Sony MAX2" tvg-id="483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Liv",Sony MAX2
+#EXTINF:-1  tvg-name="Sony MAX2" tvg-id="483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Liv",Sony MAX 2
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=483&e=.m3u
-#EXTINF:-1  tvg-name="" tvg-id="483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Liv",Sony MAX2
+#EXTINF:-1  tvg-name="" tvg-id="483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Liv",Sony MAX 2
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=483&e=.m3u
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/sony-max2.png" group-title="Sony Liv",Sony MAX2
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/sony-max2.png" group-title="Sony Liv",Sony MAX 2
 https://jio.dinesh29.com.np/live/jio-universal/sony-max2/index.ts
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/48?cb=20190815211939" group-title="Sony Liv",Sony Movies
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/48?cb=20190815211939" group-title="Sony Liv",Sony Movies -_-
 http://cord-cutter.net:8080/21093432/85321533/2214
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/48?cb=20190815211939" group-title="Sony Liv",Sony Movies
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/48?cb=20190815211939" group-title="Sony Liv",Sony Movies -_-
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1  tvg-name="Sony Pal" tvg-id="474" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv",Sony Pal
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=474&e=.m3u
@@ -5453,7 +5453,7 @@ https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=762&e=.m3u
 http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-name="" tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sony Liv",Sony Pix HD
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=762&e=.m3u
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Sony Liv",SONY PIX HD
+#EXTINF:-1  tvg-name="" tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sony Liv",Sony Pix HD -_-
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-pix-hd/index.ts
 #EXTINF:-1  tvg-name="Sony Pix SD" tvg-id="1530" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="Sony Liv",Sony Pix SD
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1530&e=.m3u
@@ -5461,7 +5461,7 @@ https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1530&e=.m3u
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1530&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Sony Liv",Sony PIX Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=189
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Sony Liv",Sony PIX(c)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Sony Liv",Sony PIX HD -_-
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=5404
 #EXTINF:-1  tvg-name="Sony SAB" tvg-id="154" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Sony Liv",Sony SAB
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=154&e=.m3u
@@ -5481,19 +5481,19 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6571/index
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=471&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/sony-sab-hd.png" group-title="Sony Liv",Sony SAB HD
 https://jio.dinesh29.com.np/live/jio-universal/sony-sab-hd/index.ts
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony Liv",SONY SAB HD
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony Liv",SONY SAB HD Liv -_-
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-sab-hd/index.ts
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Sony Liv",Sony SAB HD Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=191
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Sony Liv",Sony SAB HD(c)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony Liv",Sony SAB HD Liv -_-
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24577
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Sony Liv",Sony SAB HD(p)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="Sony Liv",Sony SAB HD -_-
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11672
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="Sony Liv",Sony TV HD Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=193
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="Sony Liv",Sony TV HD(c)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="Sony Liv",Sony TV HD(c) -_-
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24574
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="Sony Liv",Sony TV HD(h)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="Sony Liv",Sony TV HD(h) -_-
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24573
 #EXTINF:-1  tvg-name="Sony Wah" tvg-id="1393" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Liv",Sony Wah
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1393&e=.m3u
@@ -5503,9 +5503,9 @@ http://195.26.87.217/live.ts?channelId=187&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1393&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/sony-wah.png" group-title="Sony Liv",Sony Wah
 https://jio.dinesh29.com.np/live/jio-universal/sony-wah/index.ts
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Sony Liv",SONY WAH
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Sony Liv",SONY WAH Liv -_-
 https://tatasliv.dinesh29.com.np/live/tatasliv-universal/sony-wah/index.ts
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Sony Liv",Sony Wah! India
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="KIFS CHANNELS",Sony YAY! India
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=2802
 #EXTINF:-1  tvg-name="1Sports" tvg-id="1425" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="SPORTS CHANNELS",1Sports
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1425&e=.m3u
@@ -6023,7 +6023,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",𝙻𝙸𝚅𝙴 06
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310" group-title="Star Channels",Star Bharat
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310" group-title="Star Channels",Star Bharat -_-
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=195
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Star Channels",Star Bharat HD(BD)
 http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -6033,7 +6033,7 @@ http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=2756&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="2756" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Entertainment.png" group-title="Star Channels",Star Entertainment
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=2756&e=.m3u
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest?cb=20211215235100" group-title="Star Channels",Star Gold 2
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest?cb=20211215235100" group-title="Star Channels",Star Gold 2 -_-
 http://premiumdedi.one/Jubilant7Relative/xmb1HEJBsY/451521
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Star Channels",Star Gold HD
 http://tv.cloudcdn.me/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:B0:A9:0C
@@ -6047,29 +6047,29 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=196
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg" group-title="Star Channels",Star Gold Select HD -_-
 http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyEnOgtWwBJE-_YGGf0MRtpfshuW9HfnjG2UlpFw8_EN_QizDHRrvaoT_&s=10" group-title="Star Channels",Star India
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyEnOgtWwBJE-_YGGf0MRtpfshuW9HfnjG2UlpFw8_EN_QizDHRrvaoT_&s=10" group-title="Star Channels",Star India -_-
 http://103.120.172.74:1060
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyEnOgtWwBJE-_YGGf0MRtpfshuW9HfnjG2UlpFw8_EN_QizDHRrvaoT_&s=10" group-title="Star Channels",Star India
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyEnOgtWwBJE-_YGGf0MRtpfshuW9HfnjG2UlpFw8_EN_QizDHRrvaoT_&s=10" group-title="Star Channels",Star India -_-
 http://103.120.172.74:5200
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Star Channels",STAR JALSHA HD
 http://195.26.87.217/live.ts?channelId=116&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Star Channels",STAR JALSHA HD
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Star Channels",STAR JALSHA HD low -_-
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Star Channels",Star Jalsha HD Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=116592
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Star Channels",Star Jalsha HD(c)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Star Channels",Star Jalsha HD low -_-
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Star Channels",Star Jalsha HD(h)
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Star Channels",Star Jalsha HD -_-
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12101
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Star Channels",Star Jalsha VIP
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Star Channels",Star Jalsha
 http://176.119.29.52/live.ts?channelId=116&deviceMac=00:1A:79:0A:CA:4F
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.dtechtag.in/wp-content/uploads/2020/11/star-maa-300x162.png" group-title="Star Channels",Star Maa HD
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.dtechtag.in/wp-content/uploads/2020/11/star-maa-300x162.png" group-title="Star Channels",Star Maa HD -_-
 http://45.127.56.3:6699/live/Corpus-POL1/SRV5/3/STAR-MAA-HD/live.mpd
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="Star Channels",Star Movies Ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="Star Channels",Star Movies HD slow -_-
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=198
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Star Channels",STAR PLUS HD
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Star Channels",Star Plus HD Tatasony
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Star Channels",Star Plus HD low -_-
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=902
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Star Channels",Star Plus HD Ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=200
