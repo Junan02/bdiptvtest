@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="14597" tvg-logo="" group-title="ENGLISH CA",Test 1
+https://116.202.46.40:789/ZEE_PUNJABI/index.m3u8
+#EXTINF:-1 tvg-id="14597" tvg-logo="" group-title="ENGLISH CA",Test 2
+https://50.7.218.122:8080/gembollywood/index.m3u8
