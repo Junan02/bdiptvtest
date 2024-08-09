@@ -5,6 +5,8 @@
 
 
 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="",Asports
+http://103.131.214.129:9985/stream/channelid/868069455.ts
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="BANGLADESHI CHANNELS",ASIAN TV
 https://bdix.proximitybd.xyz/jado.php?id=asian_tv
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://test-tan-iota-90.vercel.app/images/atn_bangla.jpg" group-title="BANGLADESHI CHANNELS",ATN BANGLA
