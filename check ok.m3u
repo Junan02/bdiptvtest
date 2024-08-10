@@ -2020,8 +2020,18 @@ http://rhsbjv7k.tvclub.xyz/iptv/M3U54P4FVWCK3F/19051/index.m3u8
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=23565
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="SPORTS CHANNELS",TNT Sports 3
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=148090
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="SPORTS CHANNELS",TNT Sports 4
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=186630
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="SPORTS CHANNELS",TNT Sports 4 -_-
+http://fortv.cc:8080/live/753468/894568/99622.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",TSN 1
+http://fortv.cc:8080/live/753468/894568/57292.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",TSN 2
+http://fortv.cc:8080/live/753468/894568/16129.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",TSN 3
+http://fortv.cc:8080/live/753468/894568/10389.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",TSN 4
+http://fortv.cc:8080/live/753468/894568/16130.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",TSN 5
+http://fortv.cc:8080/live/753468/894568/16131.ts
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://www.tsports.com/images/tsportslogo.svg?ee719dbe4afad6ef053fb775bb28a77b" group-title="SPORTS CHANNELS",TSports HD -_-
