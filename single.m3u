@@ -69,6 +69,8 @@ https://bdix.proximitybd.xyz/jado.php?id=dbc_news
 https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png" group-title="BANGLADESHI CHANNELS",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co/pzwWtLg/IMG-20240320-114517.jpg" group-title="BANGLADESHI CHANNELS",Desh TV yt
+https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co/pzwWtLg/IMG-20240320-114517.jpg" group-title="BANGLADESHI CHANNELS",Desh TV
 https://bdix.proximitybd.xyz/jado.php?id=desh_tv
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co/pzwWtLg/IMG-20240320-114517.jpg" group-title="BANGLADESHI CHANNELS",Desh TV
@@ -5287,6 +5289,8 @@ https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=291&e=.m3u
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1396&e=.m3u
 #EXTINF:-1  tvg-name="Sony aath" tvg-id="697" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Liv",Sony aath
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=697&e=.m3u
+#EXTINF:-1  tvg-name="" tvg-id="697" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Sony Liv",SONY AATH
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1  tvg-name="" tvg-id="697" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Sony Liv",SONY AATH
 http://195.26.87.217/live.ts?channelId=44150&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-name="" tvg-id="697" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Sony Liv",Sony Aath
