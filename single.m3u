@@ -9,6 +9,18 @@
 
 
 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="SPORTS CHANNELS",TNT Sports 4 -_-
+http://fortv.cc:8080/live/753468/894568/99622.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",TSN 1
+http://fortv.cc:8080/live/753468/894568/57292.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",TSN 2
+http://fortv.cc:8080/live/753468/894568/16129.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",TSN 3
+http://fortv.cc:8080/live/753468/894568/10389.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",TSN 4
+http://fortv.cc:8080/live/753468/894568/16130.ts
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",TSN 5
+http://fortv.cc:8080/live/753468/894568/16131.ts
 #EXTINF:-1  tvg-name="" tvg-id="291" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="Sony Liv",Sony TV HD(c) -_-
 http://freechitram.site:80/play/dLcLoYLPnAgPSg3bR7EbRWB6amZ-4naVzv17FDc4Vcc/m3u8
 #EXTINF:-1  tvg-name="" tvg-id="476" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Sony Liv",Sony Max HD -_-
