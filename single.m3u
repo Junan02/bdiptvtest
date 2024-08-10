@@ -7,6 +7,9 @@
 
 
 
+
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1244042591659798534/2HHaFP4m_400x400.jpg" group-title="SPORTS CHANNELS",WWE Network -_-
+http://fortv.cc:8080/live/753468/894568/11645.ts
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",ESPN 1
 http://fortv.cc:8080/live/753468/894568/14197.ts
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="SPORTS CHANNELS",TNT Sports 4 -_-
