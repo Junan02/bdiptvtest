@@ -61,7 +61,9 @@ https://bdix.proximitybd.xyz/jado.php?id=dbc_news
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co/mTMhZTj/20240730-225116.png" group-title="BANGLADESHI CHANNELS",DBC NEWS HD YT
 https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8 
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png" group-title="BANGLADESHI CHANNELS",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co/pzwWtLg/IMG-20240320-114517.jpg" group-title="BANGLADESHI CHANNELS",Desh TV yt
+https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co/pzwWtLg/IMG-20240320-114517.jpg" group-title="BANGLADESHI CHANNELS",Desh TV
 https://bdix.proximitybd.xyz/jado.php?id=desh_tv
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co/pzwWtLg/IMG-20240320-114517.jpg" group-title="BANGLADESHI CHANNELS",Desh TV
@@ -1404,6 +1406,8 @@ https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=748&e=.m3u
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=639&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="639" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png" group-title="MUSIC CHANNELS",Ramdhenu
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=639&e=.m3u
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="MUSIC CHANNELS",RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1  tvg-name="RS Bharat" tvg-id="2063" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RS_Bharat.png" group-title="MUSIC CHANNELS",RS Bharat
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=2063&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="2063" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RS_Bharat.png" group-title="MUSIC CHANNELS",RS Bharat
@@ -2066,6 +2070,8 @@ http://103.120.172.74:1060
 http://103.120.172.74:5200
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Star Channels",Star Jalsha HD -_-
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12101
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Star Channels",STAR JALSHA HD low -_-
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Star Channels",STAR JALSHA HD low -_-
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Star Channels",Star Jalsha HD low -_-
