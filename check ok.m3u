@@ -1708,6 +1708,8 @@ https://play1nm.hnyongshun.cn/live/ballbar_39690.m3u8
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1675&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="1675" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ESG.png" group-title="SPORTS CHANNELS",ESG TV
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1675&e=.m3u
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",ESPN 1
+http://fortv.cc:8080/live/753468/894568/14197.ts
 #EXTINF:-1  tvg-name="Eurosport" tvg-id="1294" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="SPORTS CHANNELS",Eurosport
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1294&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="1294" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="SPORTS CHANNELS",Eurosport
@@ -1866,6 +1868,8 @@ https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=1529&e=.m3
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.rcg2Ridk8dSdD-LOemKKyAHaEK?rs=1&pid=ImgDetMain" group-title="SPORTS CHANNELS",MUTV (freeiptv25)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",NBC
+http://fortv.cc:8080/live/753468/894568/46687.ts
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSszrNYjTBLmY4Go4C6C3WSm0wwc1wmd89nKH7RmhGkhA&s" group-title="SPORTS CHANNELS",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",Origin Sports
@@ -2058,6 +2062,8 @@ https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlis
 https://d2bnlgp72v91ez.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k9aitcvdrjo00/playlist.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",World Poker Tour [SamsungTVPlus]
 https://dx475k80omgk3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pw99oafctey65/playlist.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1244042591659798534/2HHaFP4m_400x400.jpg" group-title="SPORTS CHANNELS",WWE Network -_-
+http://fortv.cc:8080/live/753468/894568/11645.ts
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1244042591659798534/2HHaFP4m_400x400.jpg" group-title="SPORTS CHANNELS",WWE Network
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="SPORTS CHANNELS",𝙻𝙸𝚅𝙴 05
