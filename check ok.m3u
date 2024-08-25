@@ -2190,6 +2190,8 @@ http://119.156.26.155:8000/play/a077/index.m3u8
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=2756&e=.m3u
 #EXTINF:-1  tvg-name="" tvg-id="2756" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Entertainment.png" group-title="Star Channels",Star Entertainment
 https://fuji-reduction-euro-affects.trycloudflare.com/app/live.php?id=2756&e=.m3u
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest?cb=20211215235100" group-title="Star Channels",Star Gold 2
+http://ott-op.zapto.org:789/STAR_GOLD_2_HINDI/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest?cb=20211215235100" group-title="Star Channels",Star Gold 2 -_-
 http://198.57.27.247/IN_MT_STARGOLD2/index.m3u8?token=cbc80a577da3b14124463a40a57aafef
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest?cb=20211215235100" group-title="Star Channels",Star Gold 2 -_-
@@ -2198,10 +2200,14 @@ http://premiumdedi.one/Jubilant7Relative/xmb1HEJBsY/451521
 http://119.156.26.155:8000/play/a079/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Star Channels",Star Gold HD -_-
 http://humsab.xyz/IN_STGOLD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Star Channels",Star Gold HD
+http://ott-op.zapto.org:789/STAR_GOLD_HINDI/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="" group-title="Star Channels",Star Gold Select HD
 http://119.156.26.155:8000/play/a07b/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg" group-title="Star Channels",Star Gold Select HD -_-
 http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg" group-title="Star Channels",Star Gold Select HD
+http://ott-op.zapto.org:789/STAR_GOLD_SELECT_HINDI/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg" group-title="Star Channels",Star Gold Select HD -_-
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyEnOgtWwBJE-_YGGf0MRtpfshuW9HfnjG2UlpFw8_EN_QizDHRrvaoT_&s=10" group-title="Star Channels",Star India -_-
